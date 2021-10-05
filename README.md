@@ -10,11 +10,11 @@ We define our engineering roles [here](/roles/README.md).
 
 ## Guides
 
-Go [here](/guides) for the guides. A summary is presented below
+Go [here](/guides) for all the guides. A summary is presented below
 
 ### New Starters
 
-- Engineers [onboarding](/roles/onboarding.md) information
+- Engineers [onboarding](/guides/onboarding.md) information
 
 ### Policies
 
