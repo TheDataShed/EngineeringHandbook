@@ -18,15 +18,15 @@ Go [here](/guides) for all the guides. A summary is presented below
 
 ### New Starters
 
-- Engineers [onboarding](/guides/onboarding.md) information
+Engineers [onboarding](/guides/onboarding.md) information
 
 ### Policies
 
-- Link to a policy...
+[Policy information](policies/README.md)
 
 ### Technical Process and Practice
 
-- Link to some good practices
+Link to some good practices
 
 ## Contributing
 
