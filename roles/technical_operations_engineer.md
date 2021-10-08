@@ -10,6 +10,6 @@ Define the role, what does it do etc?
 
 Paragraph about responsibilities and values
 
-## SFAI Level
+## SFIA Level
 
-SFAI level outline can be found [here](levels/sfai_technical_operations_engineer.md)
+SFIA level outline can be found [here](levels/sfia_technical_operations_engineer.md)
