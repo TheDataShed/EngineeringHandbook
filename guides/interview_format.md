@@ -96,8 +96,8 @@ is a good way of building yourself into a key player.
 ### Architecture
 
 - Draw the architecture of something you’ve worked on that you felt could  
-  have been improved, and then we will chat over how you would have improved it  
-  given the opportunity.
+  have been improved, and then we will chat over how you would have improved  
+  it given the opportunity.
 
 ### Security
 
