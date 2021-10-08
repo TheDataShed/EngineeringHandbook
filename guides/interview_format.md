@@ -16,8 +16,8 @@
   - [4.2. Live Tech Test (10 minutes)](#42-live-tech-test-10-minutes)
   - [5. Behaviours (15 minutes)](#5-behaviours-15-minutes)
     - [5.1 Data Engineer](#51-data-engineer)
-    - [5.2 Senior / Principal Data Engineer](#52-senior--principal-data-engineer)
-  - [6. Questions from the candidate (10 minutes)](#6-questions-from-the-candidate-10-minutes)
+    - [5.2 Senior / Principal Engineer](#52-senior--principal-engineer)
+  - [6. Candidate Questions (10 minutes)](#6-candidate-questions-10-minutes)
   - [7. Next Steps (5 minutes)](#7-next-steps-5-minutes)
 
 ## 1. Introduction (2 minutes)
@@ -187,7 +187,7 @@ we can match you into a team that best suits you.
    important for you to be happy at work.
 10. Why would our team be better because you are on it?
 
-### 5.2 Senior / Principal Data Engineer
+### 5.2 Senior / Principal Engineer
 
 1. For you, what’s the difference between doing a good job and a great job.
 2. What would you do if someone on your team produced some poor quality work?
@@ -226,7 +226,7 @@ achieve the above
 
 ---
 
-## 6. Questions from the candidate (10 minutes)
+## 6. Candidate Questions (10 minutes)
 
 Be enthusiastic/ passionate in your response & link to their drivers from  
 section 2!
