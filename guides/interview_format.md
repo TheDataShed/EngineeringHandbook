@@ -6,8 +6,8 @@
   - [2. Candidate Info (8 minutes)](#2-candidate-info-8-minutes)
   - [3. Company Role (10 minutes)](#3-company-role-10-minutes)
   - [4. Technical (10 minutes)](#4-technical-10-minutes)
-    - [Remote Tech Test](#remote-tech-test)
     - [Live Tech Test](#live-tech-test)
+    - [Remote Tech Test](#remote-tech-test)
     - [Architecture](#architecture)
     - [Security](#security)
     - [Sys Admin](#sys-admin)
@@ -44,7 +44,7 @@ job title, current project, how long you have worked at TDS
 - Can you give us a brief overview of a typical day in your current role?
 - What do you enjoy about your current role?
 - What do you think are the differences between a consultancy and product
-  enviornment?
+  environment?
 - What appeals to you about working in a polyglot environment? (or data
   focused environment if they are already a polyglot).
 - What do you know about TDS, what made you want to come and meet
@@ -67,19 +67,19 @@ job title, current project, how long you have worked at TDS
 
 ## 4. Technical (10 minutes)
 
-### Remote Tech Test
+### Live Tech Test
 
 - Having had time to reflect; is there anything you would have done differently?
 - If you were creating this as an application to be used in a production
   enviornment, what additional considerations would you make?
 
-### Live Tech Test
+### Remote Tech Test
 
 - What were your thoughts on the tech test?
 - What languages did you consider? why did you use x?
 - If you were creating this as an application to be used in a production
   enviornment, what additional considerations would you make?
-- Review feedback from reviweer.
+- Review feedback from reviewer.
 
 ### Architecture
 
