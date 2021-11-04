@@ -8,9 +8,9 @@ Welcome to the Shedronomicon engineer. In these hallowed pages you may find
 everything you need for your journey as a DataShed Engineer. If the incantation
 does not yet exit, seek an elder and have it inscribed…
 
-## Roles
+## Levels & Roles
 
-We define our engineering roles [here](/roles/README.md).
+We define our Engineering levels and roles [here](/levels/README.md).
 
 ## Guides
 
