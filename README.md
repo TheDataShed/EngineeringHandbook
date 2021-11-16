@@ -6,7 +6,7 @@
 
 Welcome to the Shedronomicon engineer. In these hallowed pages you may find
 everything you need for your journey as a DataShed Engineer. If the incantation
-does not yet exit, seek an elder and have it inscribed…
+does not yet exist, seek an elder and have it inscribed…
 
 ## Levels & Roles
 
@@ -16,13 +16,8 @@ We define our Engineering levels and roles [here](/levels/README.md).
 
 Go [here](/guides) for all the guides. A summary is presented below
 
-### New Starters
-
-Engineers [onboarding](/guides/onboarding.md) information
-
-### Policies
-
-[Policy information](policies/README.md)
+- New starter [onboarding](/guides/onboarding.md)
+- Engineering [policy information](policies/README.md)
 
 ### Technical Process and Practice
 
