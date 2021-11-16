@@ -30,4 +30,4 @@ the work we do but also the way in which we work as Engineers.
 
 ## SFIA Level
 
-SFIA level outline can be found [here](levels/sfia_senior_data_engineer.md).
+SFIA level outline can be found [here](sfia/sfia_senior_data_engineer.md).

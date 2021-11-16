@@ -56,4 +56,4 @@ Our Tech Leads are still Data Engineers. Along with writing code, they also:
 
 ## SFIA Level
 
-The SFIA level of a Tech Lead is the same as there engineering position.
+The SFIA level of a Tech Lead is the same as their engineering position.
