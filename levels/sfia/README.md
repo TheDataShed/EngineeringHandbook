@@ -38,34 +38,35 @@ While progression and specific roles may place further requirements on
 expected levels, the below constitutes the minimum requirements for all
 working at The Data Shed:
 
-#### Business administration: Level 3 [ADMN]
+Summary as follows:
 
-Provides administrative support function to teams and meetings.
+|Skill|Code|Level|
+|-----|----|-----|
+|[Business administration](#business-administration)|ADMN|3|
+|[Methods and tools](#methods-and-tools)|METL|3|
+|[Content authoring](#content-authoring)|INCA|3|
 
-Takes an active part in team meetings.
+#### Business administration
 
-Sets up files, software systems, onboarding new starters, compiles and
+- Provides administrative support function to teams and meetings.
+- Takes an active part in team meetings.
+- Sets up files, software systems, onboarding new starters, compiles and
 distributes reports. Provides guidance on administration software, procedures,
 processes, tools and techniques.
 
-#### Methods and tools: Level 3 [METL]
+#### Methods and tools
 
-Provides support on the use of existing methods and tools.
+- Provides support on the use of existing methods and tools.
+- Configures methods and tools within a known context.
+- Creates and updates the documentation of methods and tools.
 
-Configures methods and tools within a known context.
+#### Content authoring
 
-Creates and updates the documentation of methods and tools.
-
-#### Content authoring: Level 3 [INCA]
-
-Produces information artefacts that are accurate, current, relevant and easily
+- Produces information artefacts that are accurate, current, relevant and easily
 understood by the intended audience.
-
-Clarifies detailed content requirements with clients and representatives of the
+- Clarifies detailed content requirements with clients and representatives of the
 intended audience.
-
-Designs, creates, controls and evaluates moderately complex subject matter.
-
-Makes informed decisions about the best way to present information to an
+- Designs, creates, controls and evaluates moderately complex subject matter.
+- Makes informed decisions about the best way to present information to an
 audience. Applies moderation and editing processes to content supplied by
 others.
