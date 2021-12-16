@@ -16,7 +16,7 @@ We define our Engineering levels and roles [here](/levels/README.md).
 
 Go [here](/guides) for all the guides. A summary is presented below
 
-- New starter [onboarding](/guides/onboarding.md)
+- New starter [onboarding](/guides/new_joiner_procedure.md)
 - Engineering [policy information](policies/README.md)
 
 ### Technical Process and Practice
