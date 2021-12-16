@@ -1,0 +1,5 @@
+MD013:
+  # Do not enforce for code blocks
+  code_blocks: false
+  # Do not enforce for tables
+  tables: false
