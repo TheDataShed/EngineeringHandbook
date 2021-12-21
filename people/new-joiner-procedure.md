@@ -14,10 +14,11 @@ The new joiner procedure and be largely broken down into two phases:
 
 |Activity|Responsible|
 |--------|-----------|
+|Inform HR new joiners line manager and intended project|Engineering Management|
 |Send curriculum for Shed Academy (academy starters only)|Shed Academy Lead|
-|Grant access to [EngineeringHandbook](https://github.com/TheDataShed/EngineeringHandbook) via GitHub|Engineering Manager|
-|Give access to any relevant DataShed training platforms[^3]|Engineering Manager|
-|Organise a "[Shuddy](shuddy.md)"|Engineering Manager|
+|Grant access to [EngineeringHandbook](https://github.com/TheDataShed/EngineeringHandbook) via GitHub|Engineering Management|
+|Give access to any relevant DataShed training platforms[^3]|Engineering Management|
+|Organise a "[Shuddy](shuddy.md)"|Engineering Management|
 
 For anyone attending the Academy this is an opportunity for us to make clear
 our expectations.
