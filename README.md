@@ -28,3 +28,7 @@ Link to some good practices
 The Shedronomicon is written in Markdown. If contributing, please keep to
 Markdown, and roughly the same layout and format as existing pages. This helps
 keep the handbook consistent throughout.
+
+To run pre-commit markdownlint use the following command:
+
+    pre-commit run --all-files
