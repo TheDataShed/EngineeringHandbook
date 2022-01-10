@@ -54,7 +54,8 @@ take place in a public place.
 - Raise any issues/problems that I can help with at the earliest possible
   opportunity.
 - Being honest and as open as possible.
-- Produce relevant objectives and uploading them into Staff Squared. A detailed guide on this process can be found
+- Produce relevant objectives and uploading them into Staff Squared.
+A detailed guide on this process can be found
 [here](https://thedatashed.sharepoint.com/sites/sds/SitePages/1-to-1%27s-and-Objectives.aspx).
 - Keep Staff Squared up to date with progress of ongoing objectives.
   
