@@ -10,5 +10,8 @@
 - **GIT** - Ask Roger
 - **MFA** - Multi-Factor Authentication
 - **PM** - Project Manager
+- **SME** - Subject Matter Expert
 - **SSO** - Single Sign-On
 - **TDD** - Test Driven Development
+- **TLA** - Three Letter Acronym
+
