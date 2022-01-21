@@ -46,8 +46,7 @@ answer any questions in regard to the itinerary.
 |Activity|Responsible|
 |--------|-----------|
 |Structured first-chat with line-manager|Engineering Manager|
-|Agree onboarding timeline with project Project Manager/Tech Lead[^3]|Engineering Manager, Project Manager, Tech Lead|
-|Book meeting with project leads[^4]|Engineering Manager|
+|Agree onboarding timeline with project Project Manager/Tech Lead|Engineering Manager, Project Manager, Tech Lead|
 |Introduce "Shuddy" concept|Engineering Manager|
 |Book meeting with "Shuddy"|Engineering Manager, Shuddy|
 |Book 1-2-1 meeting to happen within first week|Engineering Manager|
@@ -60,7 +59,7 @@ The first chat should aim to cover the following:
 
 - Mavenlink and its role in recording time for billing clients. Explain the
   categories and what they should be logging time.
-  - Until billable, all time should be billed to "onboarding".[^3]
+  - Until billable, all time should be billed to "onboarding".
 - Staff², covering:
   - Booking leave
   - Reporting sickness (including commination with line-managers)
@@ -94,20 +93,36 @@ The new-starter needs to be "billable" on project by:
 
 ### First 1-2-1
 
-The output of this meeting should be the recording in Staff² as probation
-objectives. There are a number of important tasks to be completed:
+The initial 1-2-1 should be used as time to get to know each other better and
+how the manager can support the new engineer. A good method for running the
+first 1-2-1 is contracting.
 
-|Tasks|
-|-----|
-|Set any objectives for probation period|
-|Fill in the Onboarding and Induction Feedback form|
-|Communicate timeline for being billable|
-|Record Shed Values scores|
-|Record skills in the skills matrix|
+### Subsequent 1-2-1's
+
+There are a number of important tasks to be completed over the next couple of
+1-2-1's:
+
+|Tasks|When|
+|-----|----|
+|Set any objectives for probation period|Ideally 2nd 1-2-1|
+|Fill in the Onboarding and Induction Feedback form|Ideally 2nd 1-2-1|
+|Communicate timeline for being billable|Ideally 2nd 1-2-1|
+|Record Shed Values scores|2nd or 3rd 1-2-1|
+|Record skills in the skills matrix|2nd or 2rd 1-2-1|
+
+Any objectives set should should be the recording in Staff² as probation
+objectives.
 
 ## End of probation
 
 The end of probation meeting should already have be booked on the first day.
+It include the following people (or feedback from them):
+
+- Engineering Manager
+- New line manager (if applicable)
+- Project Tech Lead (if not attending, then to gather than send feedback)
+- Delivery Lead (optional)
+- Any Senior/Principal engineers (optional, may offer feedback to Tech Lead)
 
 |Activity|Responsible|
 |--------|-----------|
@@ -116,25 +131,27 @@ The end of probation meeting should already have be booked on the first day.
 |Provide Feedback on probation period|Engineering Manager|
 |Book first post probation 1-2-1 meeting as a three way with future line-manager (if relevant)|Engineering Manager, New Line Manager|
 
-### First Post Probation 1-2-1
+### Post Probation Line Management
 
 If the joiner has been given a new line manager at the end of probation, then
-this first 1-2-1 post probation should be a three way meeting with the future
-line manager. This should be led by the new line manager.
+the [Line Management Handover](https://thedatashed.sharepoint.com/sites/sds/SitePages/Line-management-hand-over.aspx)
+process should be followed.
+
+### First Post Probation 1-2-1
+
+Whether line management is changing or not, we would expect the following tasks
+around career development to take place:
 
 |Tasks|
 |-----|
 |Objectives should be raised and discussed inline with the company objectives|
+|Any professional or technical learning and development objectives raised|
 
 ### Second Post Probation 1-2-1
 
-If the joiner has been given a new line manager at the end of probation, then
-this second 1-2-1 post probation should be a three way meeting with the future
-line manager. Again this should be led by the new line manager.
+Whether line management is changing or not, we would expect the following tasks
+around career development to take place:
 
 |Tasks|
 |-----|
-|Objectives should be finalised and recorded in Staff²|
-
-[^3]: Review - sj
-[^3]: Review - sj - intended outcome here?
+|All Objectives should be finalised and recorded in Staff²|
