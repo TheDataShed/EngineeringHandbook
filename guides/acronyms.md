@@ -14,4 +14,3 @@
 - **SSO** - Single Sign-On
 - **TDD** - Test Driven Development
 - **TLA** - Three Letter Acronym
-

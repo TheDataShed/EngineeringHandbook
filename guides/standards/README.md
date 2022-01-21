@@ -5,4 +5,3 @@ Shed.
 
 [Python](/guides/Standards/python_standards.md) #TODO  
 [SQL](/guides/Standards/SQL_standards.md) #TODO
-
