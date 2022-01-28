@@ -71,7 +71,7 @@ These are some other tools that don't quite fit in the two options above
 ## Configuration
 
 This section deals with options in the `.git/config` file that make your
-commits look *prestine*!
+commits look *pristine*!
 
 You can set the following options through the command line. Pass the --global
 flag if you want to set these as the default otherwise remove the flag to have
@@ -86,11 +86,10 @@ git config --global commit.gpgsign true
 git config --global tag.gpgSign true
 ```
 
-Set your .git/config to below to reap the benefits of gpg signed commits
+Set your .git/config to below to reap the benefits of git delta diffs
 These can also go in your home directory .gitconfig file for it to cascade.
 
 ```toml
-# This section is if you installed delta
 [core]
     pager = delta
 
@@ -172,4 +171,28 @@ repos:
       - id: pydocstyle
         args:
           - --ignore=D100,D203,D406,D407,D212
+```
+
+## Underused Features
+
+### Git Worktrees
+
+If you find yourself switching and stashing code very frequently, you may find
+that managing your stashes becomes a job itself. There is a handy feature that
+you can use to get around this called worktrees which effectively creates a dir
+per branch (or worktree).
+
+You can read about worktrees here:
+
+- [docs/git-worktree](https://git-scm.com/docs/git-worktree)
+
+```bash
+git worktree add [-f] [--detach] [--checkout] [-b <new-branch>] <path>
+git worktree list [-v | --porcelain]
+git worktree lock [--reason <string>] <worktree>
+git worktree move <worktree> <new-path>
+git worktree prune [-n] [-v] [--expire <expire>]
+git worktree remove [-f] <worktree>
+git worktree repair [<path>...]
+git worktree unlock <worktree>
 ```
