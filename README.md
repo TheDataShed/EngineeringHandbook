@@ -34,7 +34,7 @@ Go [here](people) for all our guides related to you and the company.
 - [Line Management Covenant](people/line-management-covenant.md) - How we
   ensure we get the most out this partnership.
 - [Our Values](people/our-values.md) - What is important to us at The Data
-  Shed
+  Shed.
 
 ### Technical Guides and Standards
 
