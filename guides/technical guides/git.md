@@ -1,7 +1,8 @@
 # Git Practices
 
 This guide is meant to set up some handy git configuration options and/or tools
-that should help you get set up quickly.
+that should help you get set up quickly. This section will need to be filled in
+more for other operating systems as and when available.
 
 ## Initial Setup
 
