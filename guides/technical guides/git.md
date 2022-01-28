@@ -14,9 +14,9 @@ github/gitlab account so it's worth setting up.
 
 To generate a new key pair:
 
-#### Linux
+#### SSH on Linux
 
-```
+```bash
 ssh-keygen -t ed25519 -C "<email-address>"
 
 # Verify it's there.
@@ -26,17 +26,18 @@ ls -la ~/.ssh
 You should see your key listed there. The .pub file is what you will want to
 add to your gitlab/github account under ssh keys.
 
-#### Mac
+#### SSH On Mac
 
-#### Windows
+#### SSH on Windows
 
 ### GPG Keys
 
-Having a gpg key pair for your work address will allow you to sign commits and tags
+Having a gpg key pair for your work address will allow you to sign commits and
+tags
 
-#### Linux
+#### GPG on Linux
 
-```
+```bash
 gpg --full-generate-key
 ```
 
@@ -68,11 +69,12 @@ These are some other tools that don't quite fit in the two options above
 
 ## Configuration
 
-This section deals with options in the `.git/config` file that make your commits
-look *prestine*!
+This section deals with options in the `.git/config` file that make your
+commits look *prestine*!
 
-You can set the following options through the command line. Pass the --global flag if you want to set
-these as the default otherwise remove the flag to have it be repo specific
+You can set the following options through the command line. Pass the --global
+flag if you want to set these as the default otherwise remove the flag to have
+it be repo specific
 
 ```bash
 # Find out your key id
@@ -106,8 +108,8 @@ These can also go in your home directory .gitconfig file for it to cascade.
 
 ## Pre-Commit Hooks
 
-Pre commit hooks can be super useful to make sure that your project gets whatever validation
-you may want before a commit is approved.
+Pre commit hooks can be super useful to make sure that your project gets
+whatever validation you may want before a commit is approved.
 
 You can get started with pre-commit [here](https://pre-commit.com/)
 
