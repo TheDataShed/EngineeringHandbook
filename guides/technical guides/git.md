@@ -49,6 +49,7 @@ email address. Add the public key to your github/gitlab account.
 
 ### GUI
 
+- PyCharm: GitToolBox
 - VS Code: Gitlens plugin
 - Sublime Merge
 - GitKraken
