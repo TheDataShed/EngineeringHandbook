@@ -13,7 +13,7 @@ does not yet exist, have it inscribed…
 The Shedronomicon is written in Markdown. If contributing, please keep to
 Markdown, and roughly the same layout and format as existing pages. This helps
 keep the handbook consistent throughout. Any new page should be added to the
-of contents below.
+contents below.
 
 To run pre-commit markdownlint use the following command:
 
@@ -22,8 +22,6 @@ To run pre-commit markdownlint use the following command:
 You can find more info on pre-commit hooks [here](guides/technical%20guides/git.md)
 
 ## Table of contents
-
-We define our Engineering levels and roles [here](levels/README.md).
 
 ### People and Welfare
 
