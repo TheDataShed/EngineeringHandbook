@@ -4,7 +4,7 @@
 
 ## What does a Shuddy do?
 
-## Organsising a Shuddy
+## Organising a Shuddy
 
 When organising a "Shuddy", use the follow to choose an appropriate Shedder:
 

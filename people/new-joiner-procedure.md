@@ -1,7 +1,7 @@
 
 # New Joiner Procedure
 
-The new joiner procedure and be largely broken down into two phases:
+The new joiner procedure can be largely broken down into two phases:
 
 |Phase|Notes|
 |-----|-----|
