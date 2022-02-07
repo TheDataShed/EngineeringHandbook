@@ -85,6 +85,6 @@ Go [here](levels) for definitions of roles at The Data Shed and their matching
 
 ### Policies
 
-Go [here](policies) for polciies we adhere to at The Data Shed.
+Go [here](policies) for policies we adhere to at The Data Shed.
 
 - [Supported Operation Systems](policies/supported-operating-systems.md)
