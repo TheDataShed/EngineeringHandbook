@@ -15,7 +15,11 @@ For non-Shed-owned projects we should aim to follow existing standards set out ð
 ### Python 3
 
 The default version you should use is the latest currently supported across all
- 3 major cloud providers (Azure, AWS, GCP.) At the time of writing, this is **3.8**.
+ 3 major cloud providers
+ ([Azure](https://docs.microsoft.com/en-us/azure/azure-functions/functions-reference-python?tabs=asgi%2Cazurecli-linux%2Capplication-level#python-version),
+ [AWS](https://docs.aws.amazon.com/lambda/latest/dg/lambda-python.html),
+ [GCP](https://cloud.google.com/functions/docs/concepts/python-runtime).)
+ At the time of writing, this is **3.9**.
 
 If your project does not currently use this version then you need to schedule a
  work item to upgrade. The version should be maintained as per the above and this
@@ -23,7 +27,7 @@ If your project does not currently use this version then you need to schedule a
 
 #### Python 2
 
-**Never 2.\***. Shedders don't let Shedders use Python 2.
+**Never 2**. Shedders don't let Shedders use Python 2.
 
 ## Install
 
@@ -70,35 +74,43 @@ Imports should be ordered as per [`isort`](https://pypi.org/project/isort/) (see
 [Sphinx](https://sphinx-rtd-tutorial.readthedocs.io/en/latest/docstrings.html)
  style docstrings should be used throughout.
 
-## Static Analysis
-
-[`bandit`](https://github.com/PyCQA/bandit) is a tool for identifying common
- security issues in Python and should be adopted into all relevant assurance pipelines.
+ [`darglint`](https://github.com/terrencepreilly/darglint) is a useful tool for
+ verifying that docstrings match the expected style.
 
 ## Dependency Checking
 
-[`safety`](https://pyup.io/safety/) will check whether a Python project's
- dependencies have any known vulnerabilities.
-
-**Note**: the free version of `safety` is only updated monthly and as such carries
- some risk. Alternative suggestions are encouraged.
+- [`safety`](https://pyup.io/safety/) will check whether a Python project's
+  dependencies have any known vulnerabilities.
+  - **Note**: the free version of `safety` is only updated monthly and as such
+    carries some risk. Alternative suggestions are encouraged.
+- If a project is hosted on GitHub, their own
+  [Dependabot](https://github.com/dependabot) should be used for the same
+  purpose.
 
 ## Testing
 
 [`pytest`](https://docs.pytest.org/) should be used for all new projects.
 
-Existing projects should plan to migrate to `pytest` though this can be facilitated
- by [running any existing `unittest` tests with `pytest`](https://docs.pytest.org/en/6.2.x/unittest.html).
- All new tests, however, should use `pytest`.
+Existing projects should plan to migrate to `pytest` though this can be
+facilitated by
+[running any existing `unittest` tests with `pytest`](https://docs.pytest.org/en/6.2.x/unittest.html).
+All new tests, however, should use `pytest`.
 
 ### Coverage
 
-- [`coverage`](https://github.com/nedbat/coveragepy) is suitable for new projects,
- enforcing the required degree of test coverage for all code.
-  - `--show-missing` should be included for reporting on lines lacking coverage.
-- [`diff_cover`](https://github.com/Bachmann1234/diff_cover)  is suitable for
- either new or existing projects, enforcing the required degree of test coverage
- for *only those lines changed*.
+- the `pytest` plugin [`pytest-cov`](https://github.com/pytest-dev/pytest-cov)
+  should be used to measure code coverage, ideally on all projects;
+- [`diff_cover`](https://github.com/Bachmann1234/diff_cover) is suitable for
+ existing projects, enforcing the required degree of test coverage for *only
+ those lines changed*.
+
+### Static Analysis
+
+- [`bandit`](https://github.com/PyCQA/bandit) is a tool for identifying common
+  security issues in Python and should be adopted into all relevant assurance
+  pipelines.
+- [`pytest-mypy`](https://github.com/dbader/pytest-mypy) can be used for static
+  type-checking via [`mypy`](http://mypy-lang.org/).
 
 ## `gitignore`
 
@@ -140,14 +152,15 @@ All projects must include a README which is formatted as per the [CommonMark](ht
 
 ### Type Hints
 
-Use of type hints using Python's [`typing`](https://docs.python.org/3/library/typing.html)
- module is *highly* encouraged.
+Use of type hints using Python's
+[`typing`](https://docs.python.org/3/library/typing.html) module is *highly*
+encouraged.
 
 ## Integrated Desktop Environments (IDEs)
 
 Common IDEs include:
 
 - [Visual Studio Code](https://code.visualstudio.com/).
-  - see also the [PyLance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance))
+  - see also the [PyLance](https://marketplace.visualstudio.com/items?itemName=ms-python.vscode-pylance)
    plugin.
 - [PyCharm](https://www.jetbrains.com/pycharm/).
