@@ -1,5 +1,7 @@
 # Shedronomicon Ex Mortis: Book of the Shed
 
+![madeby](/assets/images/made-by-data-shed.svg)
+
 ![Ex Mortis!](/assets/images/shed.jpg)
 
 ## Welcome
@@ -50,7 +52,7 @@ approach Engineering at The Data Shed.
 - [Project Health Check](guides/project-health-check.md)
 - [Release Notes](guides/release-notes.md)
 - [Testing](guides/testing.md)
-  
+
 Go [here](guides/technical%20guides) for more technical guides on technologies
 and process we use at The Data Shed.
 

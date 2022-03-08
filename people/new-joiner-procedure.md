@@ -1,40 +1,39 @@
-
 # New Joiner Procedure
 
 The new joiner procedure can be largely broken down into two phases:
 
-|Phase|Notes|
-|-----|-----|
-|Onboarding|Activities that occur before employment starts. Designed to begin engaging and motivating the new employee.|
-|Induction|Usually the first day and involves introducing the employee to company process/ways of working and the team.|
+| Phase      | Notes                                                                                                        |
+| ---------- | ------------------------------------------------------------------------------------------------------------ |
+| Onboarding | Activities that occur before employment starts. Designed to begin engaging and motivating the new employee.  |
+| Induction  | Usually the first day and involves introducing the employee to company process/ways of working and the team. |
 
 ## Onboarding
 
 ### On Acceptance/Signed-contract
 
-|Activity|Responsible|
-|--------|-----------|
-|Inform HR new joiners line manager and intended project|Engineering Management|
-|Send curriculum for Shed Academy (academy starters only)|Shed Academy Lead|
-|Grant access to [EngineeringHandbook](https://github.com/TheDataShed/EngineeringHandbook) via GitHub|Engineering Management|
-|Give access to any relevant DataShed training platforms[^3]|Engineering Management|
-|Organise a "[Shuddy](shuddy.md)"|Engineering Management|
+| Activity                                                                                             | Responsible            |
+| ---------------------------------------------------------------------------------------------------- | ---------------------- |
+| Inform HR new joiners line manager and intended project                                              | Engineering Management |
+| Send curriculum for Shed Academy (academy starters only)                                             | Shed Academy Lead      |
+| Grant access to [EngineeringHandbook](https://github.com/TheDataShed/EngineeringHandbook) via GitHub | Engineering Management |
+| Give access to any relevant DataShed training platforms[^3]                                          | Engineering Management |
+| Organise a "[Shuddy](shuddy.md)"                                                                     | Engineering Management |
 
 For anyone attending the Academy this is an opportunity for us to make clear
 our expectations.
 
 ### Thursday Prior to Start
 
-|Activity|Responsible|
-|--------|-----------|
-|Itinerary email sent to new-joiner|HR|
-|Agree potential informal chat with future line manager|HR|
+| Activity                                               | Responsible |
+| ------------------------------------------------------ | ----------- |
+| Itinerary email sent to new-joiner                     | HR          |
+| Agree potential informal chat with future line manager | HR          |
 
 ### Friday Prior to Start
 
-|Activity|Responsible|
-|--------|-----------|
-|Informal chat with line-manager, if agreed as per the above|Line Manager|
+| Activity                                                    | Responsible  |
+| ----------------------------------------------------------- | ------------ |
+| Informal chat with line-manager, if agreed as per the above | Line Manager |
 
 The informal chat needs to be nothing more than an introduction and a chance to
 answer any questions in regard to the itinerary.
@@ -43,15 +42,15 @@ answer any questions in regard to the itinerary.
 
 ### First day
 
-|Activity|Responsible|
-|--------|-----------|
-|Structured first-chat with line-manager|Engineering Manager|
-|Agree onboarding timeline with project Project Manager/Tech Lead|Engineering Manager, Project Manager, Tech Lead|
-|Introduce "Shuddy" concept|Engineering Manager|
-|Book meeting with "Shuddy"|Engineering Manager, Shuddy|
-|Book 1-2-1 meeting to happen within first week|Engineering Manager|
-|Book end of probation meeting|Engineering Manager|
-|Organise shout out and inclusion in Diaspora|Engineering Manager|
+| Activity                                                         | Responsible                                     |
+| ---------------------------------------------------------------- | ----------------------------------------------- |
+| Structured first-chat with line-manager                          | Engineering Manager                             |
+| Agree onboarding timeline with project Project Manager/Tech Lead | Engineering Manager, Project Manager, Tech Lead |
+| Introduce "Shuddy" concept                                       | Engineering Manager                             |
+| Book meeting with "Shuddy"                                       | Engineering Manager, Shuddy                     |
+| Book 1-2-1 meeting to happen within first week                   | Engineering Manager                             |
+| Book end of probation meeting                                    | Engineering Manager                             |
+| Organise shout out and inclusion in Diaspora                     | Engineering Manager                             |
 
 #### Line Managers First Chat
 
@@ -102,13 +101,13 @@ first 1-2-1 is contracting.
 There are a number of important tasks to be completed over the next couple of
 1-2-1's:
 
-|Tasks|When|
-|-----|----|
-|Set any objectives for probation period|Ideally 2nd 1-2-1|
-|Fill in the Onboarding and Induction Feedback form|Ideally 2nd 1-2-1|
-|Communicate timeline for being billable|Ideally 2nd 1-2-1|
-|Record Shed Values scores|2nd or 3rd 1-2-1|
-|Record skills in the skills matrix|2nd or 2rd 1-2-1|
+| Tasks                                              | When              |
+| -------------------------------------------------- | ----------------- |
+| Set any objectives for probation period            | Ideally 2nd 1-2-1 |
+| Fill in the Onboarding and Induction Feedback form | Ideally 2nd 1-2-1 |
+| Communicate timeline for being billable            | Ideally 2nd 1-2-1 |
+| Record Shed Values scores                          | 2nd or 3rd 1-2-1  |
+| Record skills in the skills matrix                 | 2nd or 2rd 1-2-1  |
 
 Any objectives set should should be the recording in Staff² as probation
 objectives.
@@ -124,12 +123,12 @@ It include the following people (or feedback from them):
 - Delivery Lead (optional)
 - Any Senior/Principal engineers (optional, may offer feedback to Tech Lead)
 
-|Activity|Responsible|
-|--------|-----------|
-|Formal letter to be sent out|HR|
-|Shout out in Diaspora/Teams|Engineering Manager|
-|Provide Feedback on probation period|Engineering Manager|
-|Book first post probation 1-2-1 meeting as a three way with future line-manager (if relevant)|Engineering Manager, New Line Manager|
+| Activity                                                                                      | Responsible                           |
+| --------------------------------------------------------------------------------------------- | ------------------------------------- |
+| Formal letter to be sent out                                                                  | HR                                    |
+| Shout out in Diaspora/Teams                                                                   | Engineering Manager                   |
+| Provide Feedback on probation period                                                          | Engineering Manager                   |
+| Book first post probation 1-2-1 meeting as a three way with future line-manager (if relevant) | Engineering Manager, New Line Manager |
 
 ### Post Probation Line Management
 
@@ -142,16 +141,16 @@ process should be followed.
 Whether line management is changing or not, we would expect the following tasks
 around career development to take place:
 
-|Tasks|
-|-----|
-|Objectives should be raised and discussed inline with the company objectives|
-|Any professional or technical learning and development objectives raised|
+| Tasks                                                                        |
+| ---------------------------------------------------------------------------- |
+| Objectives should be raised and discussed inline with the company objectives |
+| Any professional or technical learning and development objectives raised     |
 
 ### Second Post Probation 1-2-1
 
 Whether line management is changing or not, we would expect the following tasks
 around career development to take place:
 
-|Tasks|
-|-----|
-|All Objectives should be finalised and recorded in Staff²|
+| Tasks                                                     |
+| --------------------------------------------------------- |
+| All Objectives should be finalised and recorded in Staff² |

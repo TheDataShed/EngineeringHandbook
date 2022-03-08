@@ -8,8 +8,8 @@ aforementioned.
 
 Data Engineering at The Data Shed is that aspect of our work which focuses on
 the practical matters of the collection, analysis and insight of data. While
-the aim of The Data Shed is indeed *"to empower organisations to spark and
-embrace their own data evolution"*, our Data Engineers focus on the
+the aim of The Data Shed is indeed _"to empower organisations to spark and
+embrace their own data evolution"_, our Data Engineers focus on the
 provenance, collection and validation of those data—the application of
 engineering principles to the systems which underpin our clients' operations.
 

@@ -48,7 +48,7 @@ job title, current project, how long you have worked at TDS
   focused environment if they are already a polyglot).
 - What do you know about TDS, what made you want to come and meet
   with us today?
-  
+
 ---
 
 ## 3. Company Role (10 minutes)
@@ -110,6 +110,7 @@ job title, current project, how long you have worked at TDS
   that you have worked with, guide us through the lifecycle of a story & how
   you’re involved at each stage.
   Probe whiteboard exercise with:
+
   - Are they involved in refinement/elaboration/prioritisation/sizing activity?
   - Collaboration with other roles PO/BA/Test etc rather than
     hand-offs/"mini-waterfall".
@@ -167,7 +168,7 @@ situations. Please use real examples whenever possible.
 7. How do you ensure your technical skills and abilites are kept up to date?
    Probe: When you set a learning goal, how do you go about achieving it?
 8. What things would you consider when working in a team that is scaling up
-   over the coming months?  
+   over the coming months?
 9. In your previous roles, give examples of how you have kept up to date with
    the work going on outside of your team.
 10. What is the toughest group or person that you have had to get cooperation
@@ -192,16 +193,16 @@ it is like to work here e.g:
 - What opportunities they will get with TDS.
 - What their skills, career, experience can achieve at TDS.
 - Most importantly: tell them how they can achieve their LEARNING Q answer  
-  with by working here. e.g their answer to what skills they are keen to
+   with by working here. e.g their answer to what skills they are keen to
   develop/learn) & highlight how at TDS we would help them achieve this.
-This will be last thing they remember about TDS!
+  This will be last thing they remember about TDS!
 
 ---
 
 ## 7. Next Steps (5 minutes)
 
 - How does the opportunity at TDS compare to your other opportunities?
-(Do they need any further info from you to help in their decision).
+  (Do they need any further info from you to help in their decision).
 - Set feedback timeframe – “1 interview tomorrow, decision by close of play”.
 - Tour of offices.
 - Thank them for coming in, really enjoyed meeting you. (use your recruiter’s

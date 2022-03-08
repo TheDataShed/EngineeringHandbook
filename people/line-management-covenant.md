@@ -16,18 +16,18 @@
 
 - As much notice should be given if one of us needs to cancel a scheduled
   meeting. Where possible we will give at least 48 hours notice but it is
-accepted that there will be occasions where short notice cancellations are
-unavoidable.
+  accepted that there will be occasions where short notice cancellations are
+  unavoidable.
 - If one of us has to cancel a scheduled meeting, that person is responsible for
- rescheduling the meeting (if necessary).
-  
+  rescheduling the meeting (if necessary).
+
 ## Notes
 
 - You will keep your own notes and actions from any scheduled meetings.
 - You will complete the
-[1-2-1 form](https://thedatashed.sharepoint.com/sites/sds/SitePages/1-to-1%27s-and-Objectives.aspx)
-at least 24 hours prior to any scheduled
-1-2-1 and e-mail it to me.
+  [1-2-1 form](https://thedatashed.sharepoint.com/sites/sds/SitePages/1-to-1%27s-and-Objectives.aspx)
+  at least 24 hours prior to any scheduled
+  1-2-1 and e-mail it to me.
 - You will complete the post 1-2-1 form within 48 hours of any scheuled 1-2-1
   and include any actions for follow up and e-mail it to me.
 
@@ -37,8 +37,8 @@ at least 24 hours prior to any scheduled
 
 - Being respectful of each others personal time.
 - Holding any meetings, whether remote or face to face in a quiet place with as
-  few distractions as possible. There may, however,  be times when our meetings
-take place in a public place.
+  few distractions as possible. There may, however, be times when our meetings
+  take place in a public place.
 
 ### I commit to
 
@@ -55,7 +55,6 @@ take place in a public place.
   opportunity.
 - Being honest and as open as possible.
 - Produce relevant objectives and upload them into Staff Squared.
-A detailed guide on this process can be found
-[here](https://thedatashed.sharepoint.com/sites/sds/SitePages/1-to-1%27s-and-Objectives.aspx).
+  A detailed guide on this process can be found
+  [here](https://thedatashed.sharepoint.com/sites/sds/SitePages/1-to-1%27s-and-Objectives.aspx).
 - Keep Staff Squared up to date with progress of ongoing objectives.
-  

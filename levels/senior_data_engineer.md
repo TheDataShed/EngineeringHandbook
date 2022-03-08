@@ -21,8 +21,8 @@ There are two main aspects which distinguish a Senior Data Engineer:
 
 ## What does a Senior Data Engineer do?
 
-While our [Data Engineers](data_engineer.md) primary focus is the *"automation
-and optimisation of our clients' operations"*, our Senior Data Engineers take
+While our [Data Engineers](data_engineer.md) primary focus is the _"automation
+and optimisation of our clients' operations"_, our Senior Data Engineers take
 this further by taking that same approach to Engineering itself. With increased
 authority and autonomy both on clients' projects and in the professional
 development of their fellows, Senior Data Engineers can contribute not only to

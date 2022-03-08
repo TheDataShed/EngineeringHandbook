@@ -9,4 +9,3 @@ applied:
 - `dev`
 - `staging`
 - `production`
-  
