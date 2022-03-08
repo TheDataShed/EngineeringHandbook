@@ -1,6 +1,6 @@
 # Shedronomicon Ex Mortis: Book of the Shed
 
-![madeby](/assets/images/made-by-data-shed.svg)
+[![madeby](/assets/images/made-by-data-shed.svg)](https://thedatashed.co.uk)
 
 ![Ex Mortis!](/assets/images/shed.jpg)
 
