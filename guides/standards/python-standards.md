@@ -193,7 +193,6 @@ It also includes a Data Shed badge.
 
 ### Quickstart
 
-
 Install the latest Cookiecutter if you haven't installed it yet (this requires
 Cookiecutter 1.4.0 or higher)
 
