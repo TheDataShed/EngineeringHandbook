@@ -49,6 +49,12 @@ tool.
 See the `pyenv-virtualenv` [documentation](https://github.com/pyenv/pyenv-virtualenv#activate-virtualenv)
 on managing multiple virtual environments for different projects.
 
+You can also just spin up a virtual environment for a project using your current python version.
+
+```bash
+python -m venv my_virtualenv_name  # Use venv or .env
+```
+
 ## Formatting
 
 We should aim for consistency and predictability across our Python code.
@@ -56,7 +62,10 @@ We should aim for consistency and predictability across our Python code.
 ### Code Style
 
 Python code should be formatted using [`black`](https://pypi.org/project/black/),
-specifically the latest tagged release (even if this is tagged as a beta.)
+specifically the latest tagged release (even if this is tagged as a beta.). Stick to
+the default 88 character length. It's easier to maintain across projects and it's handy
+when splitting a window or terminal for editing and still being able to see all
+the text in both files.
 
 #### Existing Projects
 
@@ -67,15 +76,19 @@ formatting with changes in logic.
 ### Imports
 
 Imports should be ordered as per [`isort`](https://pypi.org/project/isort/) (see
-also the [`black` compatibility guide](https://pycqa.github.io/isort/docs/configuration/black_compatibility.html).)
+also the [`black` compatibility guide](https://pycqa.github.io/isort/docs/configuration/black_compatibility.html).) It effectively requires passing `--profile black` to the isort
+command in your editor config.
 
 ### Docstrings
 
-[Sphinx](https://sphinx-rtd-tutorial.readthedocs.io/en/latest/docstrings.html)
-style docstrings should be used throughout.
+Either [Sphinx](https://sphinx-rtd-tutorial.readthedocs.io/en/latest/docstrings.html)
+style docstrings or [Google](https://google.github.io/styleguide/pyguide.html) style docstrings
+should be used on your project.
 
 [`darglint`](https://github.com/terrencepreilly/darglint) is a useful tool for
-verifying that docstrings match the expected style.
+verifying that docstrings match the expected style. A similar product is
+[`pydocstyle`](https://github.com/pycqa/pydocstyle) which validates formatting of docstrings
+in conjunction with the specs of [PEP-257](http://www.python.org/dev/peps/pep-0257/)
 
 ## Dependency Checking
 
@@ -111,6 +124,8 @@ All new tests, however, should use `pytest`.
   pipelines.
 - [`pytest-mypy`](https://github.com/dbader/pytest-mypy) can be used for static
   type-checking via [`mypy`](http://mypy-lang.org/).
+- [`flake8`](https://flake8.pycqa.org/en/latest/) can be used for fast and generally
+  fast errors with your code.
 
 ## `gitignore`
 
@@ -166,3 +181,24 @@ Common IDEs include:
 - [PyCharm](https://www.jetbrains.com/pycharm/).
 - [Neovim](https://github.com/neovim/neovim/). For intellisense/ide like environment check out Michael Park's
   neovim config: [here](https://gitlab.com/of_jorts/dotfiles/-/tree/main/nvim/.config/nvim)
+
+## Python Cookie-Cutter
+
+If all of this is overwhelming and there are too many things to manage, you can use
+a cookie-cutter curated to include the above. This can be found here:
+
+[Data Shed Cutter Python](https://github.com/KingMichaelPark/cookiecutter-pypackage)
+
+It also includes a Data Shed badge.
+
+### Quickstart
+
+
+Install the latest Cookiecutter if you haven't installed it yet (this requires
+Cookiecutter 1.4.0 or higher)
+
+```bash
+pip install -U cookiecutter
+
+cookiecutter https://github.com/KingMichaelPark/cookiecutter-pypackage.git
+```
