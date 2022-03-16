@@ -20,9 +20,9 @@ at The Data Shed:
 | Data Maturity |                      | Engineering Maturity |
 |               | Technical Leadership |                      |
 
-1. Firstly, there are a set of core competencies expected of _all_ Shedders,
+1. Firstly, there are a set of core competencies expected of *all* Shedders,
    regardless of which function in which they operate.
-2. Next, there are a set of skills which form the basis of _all_ our Engineers'
+2. Next, there are a set of skills which form the basis of *all* our Engineers'
    abilities, regardless of their level.
 3. Progressing further, there are potentially divergent paths and skill sets
    which and Engineer may pursue (named "Data-" and "Engineering-" maturity,

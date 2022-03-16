@@ -117,8 +117,8 @@ however, should use `pytest`.
 - the `pytest` plugin [`pytest-cov`](https://github.com/pytest-dev/pytest-cov)
   should be used to measure code coverage, ideally on all projects;
 - [`diff_cover`](https://github.com/Bachmann1234/diff_cover) is suitable for
-  existing projects, enforcing the required degree of test coverage for _only
-  those lines changed_.
+  existing projects, enforcing the required degree of test coverage for *only
+  those lines changed*.
 
 ### Static Analysis
 
@@ -169,12 +169,12 @@ All projects must include a README which is formatted as per the
 
 [`pre-commit`](https://pre-commit.com/) is a framework for managing pre-commit
 hooks in variety of languages, including pre-configured hooks for many of the
-above tools. Its use is _highly_ encouraged.
+above tools. Its use is *highly* encouraged.
 
 ### Type Hints
 
 Use of type hints using Python's
-[`typing`](https://docs.python.org/3/library/typing.html) module is _highly_
+[`typing`](https://docs.python.org/3/library/typing.html) module is *highly*
 encouraged.
 
 ## Integrated Desktop Environments (IDEs)

@@ -72,7 +72,7 @@ These are some other tools that don't quite fit in the two options above
 ## Configuration
 
 This section deals with options in the `.git/config` file that make your
-commits look _pristine_!
+commits look *pristine*!
 
 You can set the following options through the command line. Pass the --global
 flag if you want to set these as the default otherwise remove the flag to have
