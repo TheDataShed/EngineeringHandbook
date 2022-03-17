@@ -20,7 +20,7 @@ itself:
 
 - the technical assessment will take place using
   [GitPod](https://www.gitpod.io/), a web-based IDE similar in appearance and
-  functionality to [Visual Studio Code](https://code.visualstudio.com/).  If
+  functionality to [Visual Studio Code](https://code.visualstudio.com/). If
   they are familiar with GitHub's
   [github.dev web-based editor](https://docs.github.com/en/codespaces/the-githubdev-web-based-editor)
   then this is very similar.

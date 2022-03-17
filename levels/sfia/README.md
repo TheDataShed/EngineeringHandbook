@@ -14,7 +14,7 @@ The below is intended to represent the approximate development of an Engineer
 at The Data Shed:
 
 |               |                      |                      |
-|---------------|----------------------|----------------------|
+| ------------- | -------------------- | -------------------- |
 |               | Core (Shedder)       |                      |
 |               | Core (Engineering)   |                      |
 | Data Maturity |                      | Engineering Maturity |
@@ -40,19 +40,19 @@ working at The Data Shed:
 
 Summary as follows:
 
-|Skill|Code|Level|
-|-----|----|-----|
-|[Business administration](#business-administration)|ADMN|3|
-|[Methods and tools](#methods-and-tools)|METL|3|
-|[Content authoring](#content-authoring)|INCA|3|
+| Skill                                               | Code | Level |
+| --------------------------------------------------- | ---- | ----- |
+| [Business administration](#business-administration) | ADMN | 3     |
+| [Methods and tools](#methods-and-tools)             | METL | 3     |
+| [Content authoring](#content-authoring)             | INCA | 3     |
 
 #### Business administration
 
 - Provides administrative support function to teams and meetings.
 - Takes an active part in team meetings.
 - Sets up files, software systems, onboarding new starters, compiles and
-distributes reports. Provides guidance on administration software, procedures,
-processes, tools and techniques.
+  distributes reports. Provides guidance on administration software, procedures,
+  processes, tools and techniques.
 
 #### Methods and tools
 
@@ -63,10 +63,10 @@ processes, tools and techniques.
 #### Content authoring
 
 - Produces information artefacts that are accurate, current, relevant and easily
-understood by the intended audience.
+  understood by the intended audience.
 - Clarifies detailed content requirements with clients and representatives of the
-intended audience.
+  intended audience.
 - Designs, creates, controls and evaluates moderately complex subject matter.
 - Makes informed decisions about the best way to present information to an
-audience. Applies moderation and editing processes to content supplied by
-others.
+  audience. Applies moderation and editing processes to content supplied by
+  others.

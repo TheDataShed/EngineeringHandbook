@@ -1,10 +1,9 @@
-
 # End user devices - Supported operating systems
 
-* Release date: 08/10/2021
-* Review date: 08/11/2022
-* Author: Edward Hiley
-* Version: 1.0.1
+- Release date: 08/10/2021
+- Review date: 08/11/2022
+- Author: Edward Hiley
+- Version: 1.0.1
 
 ## What is this policy?
 
@@ -42,9 +41,10 @@ The policy does not apply where:
 1. Operating systems are being used non-interactively as part of a running
    service, ephemeral or otherwise, being used as part of development[^1].
 
-[^1]: It is expected that serverless or managed SaaS services are used where
-possible to avoid the proliferation of 'pets' - or in other words, more things
-The Data Shed needs to secure and keep up to date.
+[^1]:
+    It is expected that serverless or managed SaaS services are used where
+    possible to avoid the proliferation of 'pets' - or in other words, more things
+    The Data Shed needs to secure and keep up to date.
 
 ## Existing non compliant devices
 
@@ -65,18 +65,18 @@ Either option should take place within 6 months.
 The table below describes the operating systems that can be used at The Data
 Shed.
 
-Operating System | Version | How to check
------------------| ------- | ------------
-macOS | 10.6 | [macOS version](https://support.apple.com/en-us/HT201260)
-Windows | 10 (21H1) | [Windows version](https://support.microsoft.com/en-us/windows/which-version-of-windows-operating-system-am-i-running-628bec99-476a-2c13-5296-9dd081cdd808#WindowsVersion=Windows_10)
-Ubuntu | 20.04.3 LTS | [Ubuntu version](https://refspecs.linuxfoundation.org/LSB_3.0.0/LSB-PDA/LSB-PDA/lsbrelease.html)
+| Operating System | Version     | How to check                                                                                                                                                                         |
+| ---------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| macOS            | 10.6        | [macOS version](https://support.apple.com/en-us/HT201260)                                                                                                                            |
+| Windows          | 10 (21H1)   | [Windows version](https://support.microsoft.com/en-us/windows/which-version-of-windows-operating-system-am-i-running-628bec99-476a-2c13-5296-9dd081cdd808#WindowsVersion=Windows_10) |
+| Ubuntu           | 20.04.3 LTS | [Ubuntu version](https://refspecs.linuxfoundation.org/LSB_3.0.0/LSB-PDA/LSB-PDA/lsbrelease.html)                                                                                     |
 
 ### Tablets and mobile devices
 
 The table below describes the operating systems that can be used on tablets and
 mobile devices at The Data Shed.
 
-Operating System | Version | How to check
------------------|---------|-------------
-iOS | 15.0.1| [iOS version](https://support.apple.com/en-gb/HT201685)
-Android |11 | [Android version](https://support.google.com/android/answer/7680439?hl=en-GB)
+| Operating System | Version | How to check                                                                  |
+| ---------------- | ------- | ----------------------------------------------------------------------------- |
+| iOS              | 15.0.1  | [iOS version](https://support.apple.com/en-gb/HT201685)                       |
+| Android          | 11      | [Android version](https://support.google.com/android/answer/7680439?hl=en-GB) |
