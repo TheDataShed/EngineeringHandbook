@@ -4,8 +4,8 @@ This is the SFIA description for the Engineering Manager position.
 
 ## Skills
 
-Includes SFIA skills from the Manager's own Data Engineering level, those of
-the [Tech. Lead](sfia_tech_lead.md) role, plus:
+Includes SFIA skills from the Manager's own Data Engineering level, those of the
+[Tech. Lead](sfia_tech_lead.md) role, plus:
 
 | Skill                                                                           | Code | Level |
 | ------------------------------------------------------------------------------- | ---- | ----- |

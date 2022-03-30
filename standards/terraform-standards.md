@@ -5,9 +5,8 @@ developed by [HashiCorp](https://www.hashicorp.com/).
 
 At The Data Shed, this has become the de facto standard tool for provisioning
 infrastructure on our projects. Thanks to its declarative language and
-extensibility through
-"[providers](https://www.terraform.io/language/providers)" for every possible
-service, it is both versatile and highly maintainable.
+extensibility through "[providers](https://www.terraform.io/language/providers)"
+for every possible service, it is both versatile and highly maintainable.
 
 ## Versions
 
@@ -42,8 +41,8 @@ or more thorough Static Application Security Testing.
 - [`tfsec`](https://github.com/aquasecurity/tfsec)
 
 In some cases these tools will suggest actions inappropriate for a particular
-project; each, however, can allow these rules to be ignored. Where this
-happens, there MUST be appropriate explanation.
+project; each, however, can allow these rules to be ignored. Where this happens,
+there MUST be appropriate explanation.
 
 Any project using Terraform SHOULD integrate these into their development
 workflows. Where any issues are flagged, any project MUST provide a path for

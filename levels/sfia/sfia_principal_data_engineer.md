@@ -16,9 +16,9 @@ Summary as follows:
 
 ### Autonomy
 
-- Works under broad direction. Work is often self-initiated. Is fully responsible
-  for meeting allocated technical and/or group objectives. Analyses, designs,
-  plans, executes and evaluates work to time, cost and quality targets.
+- Works under broad direction. Work is often self-initiated. Is fully
+  responsible for meeting allocated technical and/or group objectives. Analyses,
+  designs, plans, executes and evaluates work to time, cost and quality targets.
   Establishes milestones and has a significant role in the assignment of tasks
   and/or responsibilities.
 
@@ -65,15 +65,16 @@ Summary as follows:
   to broad audiences.
 - Learning and professional development — takes initiative to advance own skills
   and identify and manage development opportunities in area of responsibility.
-- Security, privacy and ethics — proactively contributes to the implementation of
-  appropriate working practices and culture.
+- Security, privacy and ethics — proactively contributes to the implementation
+  of appropriate working practices and culture.
 
 ### Knowledge
 
-- Is fully familiar with recognised industry bodies of knowledge both generic and
-  specific, and knowledge of the business, suppliers, partners, competitors and
-  clients. Develops a wider breadth of knowledge across the industry or business.
-  Applies knowledge to help to define the standards which others will apply.
+- Is fully familiar with recognised industry bodies of knowledge both generic
+  and specific, and knowledge of the business, suppliers, partners, competitors
+  and clients. Develops a wider breadth of knowledge across the industry or
+  business. Applies knowledge to help to define the standards which others will
+  apply.
 
 ## Skills
 
@@ -93,8 +94,8 @@ Summary as follows:
 
 - Plans and drives the development of data engineering solutions ensuring that
   solutions balance functional and non-functional requirements.
-- Monitors application of data standards and architectures including security and
-  compliance.
+- Monitors application of data standards and architectures including security
+  and compliance.
 - Contributes to organisational policies, standards, and guidelines for data
   engineering.
 
@@ -111,8 +112,8 @@ Summary as follows:
 
 #### Testing
 
-- Plans and drives testing activities across all stages and iterations of product,
-  systems and service development.
+- Plans and drives testing activities across all stages and iterations of
+  product, systems and service development.
 - Provides authoritative advice and guidance on any aspect of test planning and
   execution. Adopts and adapts appropriate testing methods, automated tools and
   techniques to solve problems in tools and testing approaches.
@@ -127,14 +128,15 @@ Summary as follows:
   including assessment of risk.
 - Liaises with business and technology teams on release scheduling and
   communication of progress. Conducts post-release reviews.
-- Ensures that release processes and procedures are applied and that releases can
-  be rolled back as needed.
+- Ensures that release processes and procedures are applied and that releases
+  can be rolled back as needed.
 - Identifies, evaluates and manages the adoption of appropriate release and
   deployment techniques, processes and automation tools.
 
 #### IT infrastructure
 
-- Provides technical leadership to optimise the performance of IT infrastructure.
+- Provides technical leadership to optimise the performance of IT
+  infrastructure.
 - Investigates and manages the adoption of tools, techniques and processes
   (including automation) for the management of systems and services.
 - Oversees the planning, installation, maintenance and acceptance of new and
@@ -182,8 +184,8 @@ Summary as follows:
 
 - Designs, implements, tests and improves machine learning architectures and
   systems.
-- Selects techniques based on a breadth of knowledge of the strengths, weaknesses
-  and expected performance of different approaches.
+- Selects techniques based on a breadth of knowledge of the strengths,
+  weaknesses and expected performance of different approaches.
 - Establishes good practice in the development, evaluation, monitoring and
   deployment of machine learning systems.
 
@@ -208,8 +210,8 @@ Summary as follows:
 
 #### Systems integration and build
 
-- Collaborates with those responsible for ongoing systems and software life cycle
-  management to select, adopt and adapt working practices.
+- Collaborates with those responsible for ongoing systems and software life
+  cycle management to select, adopt and adapt working practices.
 - Supports deployment of the working environment for systems and software life
   cycle working practices.
 - Provides effective feedback to encourage development of the individuals and
@@ -237,8 +239,8 @@ Summary as follows:
   processes and services. Manages the creation of acceptance test cases and
   scenarios. Ensures that defined tests reflect realistic operational conditions
   and required level of coverage.
-- Ensure tests and results are documented, analysed and reported to stakeholders,
-  and required actions taken. Highlights issues and risks identified during
-  testing to stakeholders.
+- Ensure tests and results are documented, analysed and reported to
+  stakeholders, and required actions taken. Highlights issues and risks
+  identified during testing to stakeholders.
 - Provides authoritative advice and guidance on planning and execution of
   acceptance tests.

@@ -1,14 +1,14 @@
-# Shedronomicon Ex Mortis: Book of the Shed
+# Shedronomicon Ex Mortis
 
-[![madeby](/assets/images/made-by-data-shed.svg)](https://thedatashed.co.uk)
+[![madeby](assets/images/made-by-data-shed.svg)](https://thedatashed.co.uk)
 
-![Ex Mortis!](/assets/images/shed.jpg)
+![Ex Mortis!](assets/images/shed.jpg)
 
 ## Welcome
 
-Welcome to the Shedronomicon. In these cursed pages you may find
-everything you need for your journey as a Data Shed employee. If the passage
-does not yet exist, have it inscribed…
+Welcome to the Shedronomicon. In these cursed pages you may find everything you
+need for your journey as a Data Shed employee. If the passage does not yet
+exist, have it inscribed…
 
 ## Contributing
 
@@ -19,9 +19,12 @@ contents below.
 
 To run pre-commit markdownlint use the following command:
 
-    pre-commit run --all-files
+```bash
+pre-commit run --all-files
+```
 
-You can find more info on pre-commit hooks [here](guides/technical%20guides/git.md)
+You can find more info on pre-commit hooks
+[here](guides/technical%20guides/git.md)
 
 ## Table of contents
 
@@ -41,10 +44,9 @@ Go [here](people) for all our guides related to you and the company.
 Go [here](guides) for all our guides and best practices related to how we
 approach Engineering at The Data Shed.
 
-- [Acronyms and Definitions](guides/acronyms.md)
-- [Default Branching](guides/branching-policy.md)
+- [Git Policies](guides/git-policies.md)
 - [Builds](guides/builds.md)
-- [Code Review](guides/code-review.md)
+- [Code Review](guides/code-reviews.md)
 - [Continuous Integration](guides/continuous-integration.md)
 - [Deployment](guides/deployment.md)
 - [Documentation](guides/documentation.md)
@@ -53,18 +55,18 @@ approach Engineering at The Data Shed.
 - [Release Notes](guides/release-notes.md)
 - [Testing](guides/testing.md)
 
-Go [here](guides/technical%20guides) for more technical guides on technologies
-and process we use at The Data Shed.
+Go [here](guides/technical%20guides) for more technical guides on
+technologies and process we use at The Data Shed.
 
 - [Docker](guides/technical%20guides/docker.md)
 - [Git](guides/technical%20guides/git.md)
 - [Test Driven Development](guides/technical%20guides/test-driven-development.md)
 
-Go [here](guides/standards) for coding stadards for languages we use at The Data
-Shed.
+Go [here](guides/standards) for coding stadards for languages we use at The
+Data Shed.
 
-- [Python](guides/standards/python-standards.md)
-- [SQL](guides/standards/sql-standards.md)
+- [Python](standards/python-standards.md)
+- [SQL](standards/sql-standards.md)
 
 Go [here](guides/operations) for operational guides.
 
@@ -74,8 +76,8 @@ Go [here](guides/operations) for operational guides.
 
 ### Levels
 
-Go [here](levels) for definitions of roles at The Data Shed and their matching
-[SFIA levels](https://sfia-online.org/en/sfia-8/sfia-8) .
+Go [here](levels) for definitions of roles at The Data Shed and their
+matching [SFIA levels](https://sfia-online.org/en/sfia-8/sfia-8) .
 
 - [Associate Data Engineer](levels/associate_data_engineer.md)
 - [Data Engineer](levels/data_engineer.md)

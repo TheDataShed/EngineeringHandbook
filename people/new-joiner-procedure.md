@@ -19,8 +19,8 @@ The new joiner procedure can be largely broken down into two phases:
 | Give access to any relevant DataShed training platforms[^3]                                          | Engineering Management |
 | Organise a "[Shuddy](shuddy.md)"                                                                     | Engineering Management |
 
-For anyone attending the Academy this is an opportunity for us to make clear
-our expectations.
+For anyone attending the Academy this is an opportunity for us to make clear our
+expectations.
 
 ### Thursday Prior to Start
 
@@ -114,8 +114,8 @@ objectives.
 
 ## End of probation
 
-The end of probation meeting should already have be booked on the first day.
-It include the following people (or feedback from them):
+The end of probation meeting should already have be booked on the first day. It
+include the following people (or feedback from them):
 
 - Engineering Manager
 - New line manager (if applicable)
@@ -133,7 +133,8 @@ It include the following people (or feedback from them):
 ### Post Probation Line Management
 
 If the joiner has been given a new line manager at the end of probation, then
-the [Line Management Handover](https://thedatashed.sharepoint.com/sites/sds/SitePages/Line-management-hand-over.aspx)
+the
+[Line Management Handover](https://thedatashed.sharepoint.com/sites/sds/SitePages/Line-management-hand-over.aspx)
 process should be followed.
 
 ### First Post Probation 1-2-1

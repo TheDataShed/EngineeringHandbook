@@ -17,8 +17,8 @@ Summary as follows:
 ### Autonomy
 
 - Works under general direction. Receives specific direction, accepts guidance
-  and has work reviewed at agreed milestones. Uses discretion in identifying
-  and responding to complex issues related to own assignments. Determines when
+  and has work reviewed at agreed milestones. Uses discretion in identifying and
+  responding to complex issues related to own assignments. Determines when
   issues should be escalated to a higher level. Plans and monitors own work (and
   that of others where applicable) competently within limited deadlines.
 
@@ -28,8 +28,8 @@ Summary as follows:
   which impact routine work assigned to individuals or stages of projects. Has
   working level contact with customers, suppliers and partners. Understands and
   collaborates on the analysis of user/customer needs and represents this in
-  their work. Contributes fully to the work of teams by appreciating how own role
-  relates to other roles.
+  their work. Contributes fully to the work of teams by appreciating how own
+  role relates to other roles.
 
 ### Complexity
 
@@ -113,9 +113,11 @@ Summary as follows:
 
 - Provisions/installs, configures and maintains infrastructure services and
   components.
-- Monitors, measures and reports on infrastructure load, performance and security
-  events. Identifies operational issues and contributes to their resolution.
+- Monitors, measures and reports on infrastructure load, performance and
+  security events. Identifies operational issues and contributes to their
+  resolution.
 - Carries out agreed operational procedures, including backup/restore, using
   supplied infrastructure tools and scripts.
 - Carries out agreed system software maintenance tasks. Automates routine system
-  administration tasks to specifications using standard tools and basic scripting.
+  administration tasks to specifications using standard tools and basic
+  scripting.

@@ -3,9 +3,9 @@
 This is the single source of truth for coding and naming standards at The Data
 Shed.
 
-- [Python](/guides/standards/python-standards.md)
-- [SQL](/guides/standards/sql-standards.md) #TODO
-- [Terraform](/guides/standards/terraform-standards.md)
+- [Python](python-standards.md)
+- [SQL](sql-standards.md)
+- [Terraform](terraform-standards.md)
 
 ## General
 
@@ -18,8 +18,8 @@ Git [hooks](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks) are a
 means by which automated action can be taken for certain events in the Git
 lifecycle.
 
-[`pre-commit`](https://pre-commit.com/) is a framework for managing a variety
-of tools, specifically for the
+[`pre-commit`](https://pre-commit.com/) is a framework for managing a variety of
+tools, specifically for the
 [`pre-commit`](https://git-scm.com/book/en/v2/Customizing-Git-Git-Hooks#_committing_workflow_hooks)
 hook.
 

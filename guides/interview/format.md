@@ -20,14 +20,14 @@
 
 ## 1. Introduction (2 minutes)
 
-**Decision Maker** - Welcome candidate, introduce yourself: Full name,
-job title, current project, how long you have worked at TDS
-& then introduce the other interviewer so they can introduce themselves.
+**Decision Maker** - Welcome candidate, introduce yourself: Full name, job
+title, current project, how long you have worked at TDS & then introduce the
+other interviewer so they can introduce themselves.
 
 1. House keeping:
    - If you have a laptop explain reason.
-   - Interview is planned for 1 hour. If candidate needs a break (bathroom /
-     get a drink then that's fine).
+   - Interview is planned for 1 hour. If candidate needs a break (bathroom / get
+     a drink then that's fine).
    - Time for questions at the end but if anything comes up feel free to ask.
 2. Info about the candidate and their current job.
 3. Overview of The Data Shed and the role we are recruiting for.
@@ -44,21 +44,20 @@ job title, current project, how long you have worked at TDS
 - What do you enjoy about your current role?
 - What do you think are the differences between a consultancy and product
   environment?
-- What appeals to you about working in a polyglot environment? (or data
-  focused environment if they are already a polyglot).
-- What do you know about TDS, what made you want to come and meet
-  with us today?
+- What appeals to you about working in a polyglot environment? (or data focused
+  environment if they are already a polyglot).
+- What do you know about TDS, what made you want to come and meet with us today?
 
 ---
 
 ## 3. Company Role (10 minutes)
 
-- Explain the role of an Engineer/Senior Engineer (link to answers in
-  previous step).
+- Explain the role of an Engineer/Senior Engineer (link to answers in previous
+  step).
 - Describe the project you work on, how the team works, account team size and
   make up.
-- Discuss what you enjoy about working for TDS and how it has benefited
-  you/your skills/ career (link to their motivations from step 2).
+- Discuss what you enjoy about working for TDS and how it has benefited you/your
+  skills/ career (link to their motivations from step 2).
 - Highlight what TDS working/ engineering ethos and culture is.
 - Explain what is expected in our role e.g. behaviours/ attitude/ tech.
 
@@ -82,14 +81,14 @@ job title, current project, how long you have worked at TDS
 
 ### Architecture
 
-- Discuss the architecture of a recent project you have been involved with.
-  (if they have already mentioned a project ask them about that). Is there
-  anything you feel could have been improved or done differently?
+- Discuss the architecture of a recent project you have been involved with. (if
+  they have already mentioned a project ask them about that). Is there anything
+  you feel could have been improved or done differently?
 
 ### Security
 
-- What application security practices/policies have you been exposed to?
-  (e.g. Pen Test, Static/Dynamic code analysis/ OWASP).
+- What application security practices/policies have you been exposed to? (e.g.
+  Pen Test, Static/Dynamic code analysis/ OWASP).
 - How do you make sure your dependencies are up to date?
 
 ### Sys Admin
@@ -103,21 +102,20 @@ job title, current project, how long you have worked at TDS
 
 ### Agile: (Skip if Needed)
 
-- What experience of agile process have you had before?
-  (If no, move straight to Probe Q without whiteboard exercise)
+- What experience of agile process have you had before? (If no, move straight to
+  Probe Q without whiteboard exercise)
 
-- Whiteboard exercise: Please draw an example of a story/task/Kanban board
-  that you have worked with, guide us through the lifecycle of a story & how
-  you’re involved at each stage.
-  Probe whiteboard exercise with:
+- Whiteboard exercise: Please draw an example of a story/task/Kanban board that
+  you have worked with, guide us through the lifecycle of a story & how you’re
+  involved at each stage. Probe whiteboard exercise with:
 
   - Are they involved in refinement/elaboration/prioritisation/sizing activity?
   - Collaboration with other roles PO/BA/Test etc rather than
     hand-offs/"mini-waterfall".
-  - Proactivity and pragmatism rather than waiting for task assignment and
-    just following process.
-  - If there are issues with example given, what do they propose would make
-    it better?
+  - Proactivity and pragmatism rather than waiting for task assignment and just
+    following process.
+  - If there are issues with example given, what do they propose would make it
+    better?
   - Focus on completion of in-flight tickets over starting new ones (WIP).
   - What ceremonies would they expect the team to fulfil.
 
@@ -138,18 +136,18 @@ situations. Please use real examples whenever possible.
 
 1. For you, what’s the difference between doing a good job and a great job.
 2. What would you do if someone on your team produced some poor quality work?
-3. Have you ever worked on a project that was unsuccessful. If so, whose
-   fault was it? is there anything that if you faced the same situation now,
-   you would do differently?
+3. Have you ever worked on a project that was unsuccessful. If so, whose fault
+   was it? is there anything that if you faced the same situation now, you would
+   do differently?
 4. How do you asses the value of your work?
 5. If you were given some feedback that you thought was unjust, what would you
    do about it?
-6. Tell us about an occasion when you've needed to motivate or boost the
-   morale of your team or one of your team mates. How did you go about it,
-   what was the outcome?
-7. If you were given a task by your line manager, and then a client ticket
-   came in, and there is not enough time to do both; How would you
-   prioritise which one to complete?
+6. Tell us about an occasion when you've needed to motivate or boost the morale
+   of your team or one of your team mates. How did you go about it, what was the
+   outcome?
+7. If you were given a task by your line manager, and then a client ticket came
+   in, and there is not enough time to do both; How would you prioritise which
+   one to complete?
 8. How do you ensure your technical skills and abilites are kept up to date?
    Probe: When you set a learning goal, how do you go about achieving it?
 
@@ -167,8 +165,8 @@ situations. Please use real examples whenever possible.
    one to complete?
 7. How do you ensure your technical skills and abilites are kept up to date?
    Probe: When you set a learning goal, how do you go about achieving it?
-8. What things would you consider when working in a team that is scaling up
-   over the coming months?
+8. What things would you consider when working in a team that is scaling up over
+   the coming months?
 9. In your previous roles, give examples of how you have kept up to date with
    the work going on outside of your team.
 10. What is the toughest group or person that you have had to get cooperation
@@ -183,8 +181,8 @@ situations. Please use real examples whenever possible.
 ## 6. Candidate Questions (10 minutes)
 
 Be enthusiastic/ passionate in your response & link to their drivers from  
-section 2!
-Remember what they’re really asking are questions that help to visualise what  
+section 2! Remember what they’re really asking are questions that help to
+visualise what  
 it is like to work here e.g:
 
 - What it’s like being part of the TDS team.
@@ -193,16 +191,16 @@ it is like to work here e.g:
 - What opportunities they will get with TDS.
 - What their skills, career, experience can achieve at TDS.
 - Most importantly: tell them how they can achieve their LEARNING Q answer  
-   with by working here. e.g their answer to what skills they are keen to
-  develop/learn) & highlight how at TDS we would help them achieve this.
-  This will be last thing they remember about TDS!
+   with by working here. e.g their answer to what skills they are keen to develop/learn)
+  & highlight how at TDS we would help them achieve this. This will be last thing
+  they remember about TDS!
 
 ---
 
 ## 7. Next Steps (5 minutes)
 
-- How does the opportunity at TDS compare to your other opportunities?
-  (Do they need any further info from you to help in their decision).
+- How does the opportunity at TDS compare to your other opportunities? (Do they
+  need any further info from you to help in their decision).
 - Set feedback timeframe – “1 interview tomorrow, decision by close of play”.
 - Tour of offices.
 - Thank them for coming in, really enjoyed meeting you. (use your recruiter’s
