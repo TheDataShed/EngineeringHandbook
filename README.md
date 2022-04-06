@@ -32,12 +32,11 @@ You can find more info on pre-commit hooks
 
 Go [here](people) for all our guides related to you and the company.
 
-- [New Starter Onboarding](people/new-joiner-procedure.md) - How we support
-  you as well as possible.
-- [Line Management Covenant](people/line-management-covenant.md) - How we
-  ensure we get the most out this partnership.
-- [Our Values](people/our-values.md) - What is important to us at The Data
-  Shed.
+- [New Starter Onboarding](people/new-joiner-procedure.md) - How we support you
+  as well as possible.
+- [Line Management Covenant](people/line-management-covenant.md) - How we ensure
+  we get the most out this partnership.
+- [Our Values](people/our-values.md) - What is important to us at The Data Shed.
 
 ### Technical Guides and Standards
 
@@ -55,15 +54,15 @@ approach Engineering at The Data Shed.
 - [Release Notes](guides/release-notes.md)
 - [Testing](guides/testing.md)
 
-Go [here](guides/technical%20guides) for more technical guides on
-technologies and process we use at The Data Shed.
+Go [here](guides/technical%20guides) for more technical guides on technologies
+and process we use at The Data Shed.
 
 - [Docker](guides/technical%20guides/docker.md)
 - [Git](guides/technical%20guides/git.md)
 - [Test Driven Development](guides/technical%20guides/test-driven-development.md)
 
-Go [here](guides/standards) for coding stadards for languages we use at The
-Data Shed.
+Go [here](guides/standards) for coding stadards for languages we use at The Data
+Shed.
 
 - [Python](standards/python-standards.md)
 - [SQL](standards/sql-standards.md)
@@ -76,8 +75,8 @@ Go [here](guides/operations) for operational guides.
 
 ### Levels
 
-Go [here](levels) for definitions of roles at The Data Shed and their
-matching [SFIA levels](https://sfia-online.org/en/sfia-8/sfia-8) .
+Go [here](levels) for definitions of roles at The Data Shed and their matching
+[SFIA levels](https://sfia-online.org/en/sfia-8/sfia-8) .
 
 - [Associate Data Engineer](levels/associate_data_engineer.md)
 - [Data Engineer](levels/data_engineer.md)
