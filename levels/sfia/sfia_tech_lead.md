@@ -55,6 +55,6 @@ Summary as follows:
   they are made available. Facilitates availability and optimum utilisation of
   resources.
 - Monitors and reports on the progress of development projects. Ensures projects
-  are carried out in accordance with agreed architectures, standards, methods and
-  tools and addresses security and privacy requirements.
+  are carried out in accordance with agreed architectures, standards, methods
+  and tools and addresses security and privacy requirements.
 - Develops road maps to communicate future development activity.

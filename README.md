@@ -1,14 +1,14 @@
-# Shedronomicon Ex Mortis: Book of the Shed
+# Shedronomicon Ex Mortis
 
-[![madeby](/assets/images/made-by-data-shed.svg)](https://thedatashed.co.uk)
+[![madeby](assets/images/made-by-data-shed.svg)](https://thedatashed.co.uk)
 
-![Ex Mortis!](/assets/images/shed.jpg)
+![Ex Mortis!](assets/images/shed.jpg)
 
 ## Welcome
 
-Welcome to the Shedronomicon. In these cursed pages you may find
-everything you need for your journey as a Data Shed employee. If the passage
-does not yet exist, have it inscribed…
+Welcome to the Shedronomicon. In these cursed pages you may find everything you
+need for your journey as a Data Shed employee. If the passage does not yet
+exist, have it inscribed…
 
 ## Contributing
 
@@ -19,9 +19,12 @@ contents below.
 
 To run pre-commit markdownlint use the following command:
 
-    pre-commit run --all-files
+```bash
+pre-commit run --all-files
+```
 
-You can find more info on pre-commit hooks [here](guides/technical%20guides/git.md)
+You can find more info on pre-commit hooks
+[here](guides/technical%20guides/git.md)
 
 ## Table of contents
 
@@ -29,22 +32,20 @@ You can find more info on pre-commit hooks [here](guides/technical%20guides/git.
 
 Go [here](people) for all our guides related to you and the company.
 
-- [New Starter Onboarding](people/new-joiner-procedure.md) - How we support
-  you as well as possible.
-- [Line Management Covenant](people/line-management-covenant.md) - How we
-  ensure we get the most out this partnership.
-- [Our Values](people/our-values.md) - What is important to us at The Data
-  Shed.
+- [New Starter Onboarding](people/new-joiner-procedure.md) - How we support you
+  as well as possible.
+- [Line Management Covenant](people/line-management-covenant.md) - How we ensure
+  we get the most out this partnership.
+- [Our Values](people/our-values.md) - What is important to us at The Data Shed.
 
 ### Technical Guides and Standards
 
 Go [here](guides) for all our guides and best practices related to how we
 approach Engineering at The Data Shed.
 
-- [Acronyms and Definitions](guides/acronyms.md)
-- [Default Branching](guides/branching-policy.md)
+- [Git Policies](guides/git-policies.md)
 - [Builds](guides/builds.md)
-- [Code Review](guides/code-review.md)
+- [Code Review](guides/code-reviews.md)
 - [Continuous Integration](guides/continuous-integration.md)
 - [Deployment](guides/deployment.md)
 - [Documentation](guides/documentation.md)
@@ -63,8 +64,8 @@ and process we use at The Data Shed.
 Go [here](guides/standards) for coding stadards for languages we use at The Data
 Shed.
 
-- [Python](guides/standards/python-standards.md)
-- [SQL](guides/standards/sql-standards.md)
+- [Python](standards/python-standards.md)
+- [SQL](standards/sql-standards.md)
 
 Go [here](guides/operations) for operational guides.
 

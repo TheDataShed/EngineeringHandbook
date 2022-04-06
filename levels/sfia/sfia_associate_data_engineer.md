@@ -17,8 +17,8 @@ Summary as follows:
 ### Autonomy
 
 - Works under routine direction. Uses limited discretion in resolving issues or
-  enquiries. Determines when to seek guidance in unexpected situations. Plans own
-  work within short time horizons.
+  enquiries. Determines when to seek guidance in unexpected situations. Plans
+  own work within short time horizons.
 
 ### Influence
 
@@ -41,8 +41,8 @@ Summary as follows:
 - Has sufficient digital skills for their role.
 - Learning and professional development — identifies and negotiates own
   development opportunities.
-- Security, privacy and ethics — is fully aware of organisational standards. Uses
-  appropriate working practices in own work.
+- Security, privacy and ethics — is fully aware of organisational standards.
+  Uses appropriate working practices in own work.
 
 ### Knowledge
 
@@ -79,7 +79,8 @@ Summary as follows:
 - Designs test cases, creates test scripts and test data, and automates
   repeatable tasks working to the requirements or specifications provided.
 - Defines test conditions for given requirements.
-- Executes and records manual and automated testing in accordance with test plans.
+- Executes and records manual and automated testing in accordance with test
+  plans.
 - Analyses and reports on test activities, results, issues and risks.
 
 ### IT infrastructure

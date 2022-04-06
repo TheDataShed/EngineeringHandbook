@@ -3,3 +3,5 @@ MD013:
   code_blocks: false
   # Do not enforce for tables
   tables: false
+
+MD041: false

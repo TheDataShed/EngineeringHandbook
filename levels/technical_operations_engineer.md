@@ -12,4 +12,5 @@ Paragraph about responsibilities and values
 
 ## SFIA Level
 
-SFIA level outline can be found [here](levels/sfia_technical_operations_engineer.md)
+SFIA level outline can be found
+[here](sfia/sfia_technical_operations_engineer.md)

@@ -29,14 +29,14 @@ Summary as follows:
   which influence the success of projects and team objectives. May have some
   responsibility for the work of others and for the allocation of resources.
   Engages with and contributes to the work of cross-functional teams to ensure
-  that customers and user needs are being met throughout the deliverable/scope of
-  work. Facilitates collaboration between stakeholders who share common
+  that customers and user needs are being met throughout the deliverable/scope
+  of work. Facilitates collaboration between stakeholders who share common
   objectives. Participates in external activities related to own specialism.
 
 ### Complexity
 
-- Work includes a broad range of complex technical or professional activities, in
-  a variety of contexts. Investigates, defines and resolves complex issues.
+- Work includes a broad range of complex technical or professional activities,
+  in a variety of contexts. Investigates, defines and resolves complex issues.
   Applies, facilitates and develops creative thinking concepts or finds
   innovative ways to approach a deliverable.
 
@@ -46,7 +46,8 @@ Summary as follows:
   information to both technical and non-technical audiences when engaging with
   colleagues, users/customers, suppliers and partners.
 - Selects appropriately from, and assesses the impact of change to applicable
-  standards, methods, tools, applications and processes relevant to own specialism.
+  standards, methods, tools, applications and processes relevant to own
+  specialism.
 - Demonstrates an awareness of risk and takes an analytical approach to work.
 - Maximises the capabilities of applications for their role and evaluates and
   supports the use of new technologies and digital tools.
@@ -58,18 +59,18 @@ Summary as follows:
   development. Takes the initiative in identifying and negotiating their own and
   supporting team members' appropriate development opportunities. Contributes to
   the development of others.
-- Security, privacy and ethics — fully understands the importance and application
-  to own work and the operation of the organisation. Engages or works with
-  specialists as necessary.
+- Security, privacy and ethics — fully understands the importance and
+  application to own work and the operation of the organisation. Engages or
+  works with specialists as necessary.
 
 ### Knowledge
 
-- Has a thorough understanding of recognised generic industry bodies of knowledge
-  and specialist bodies of knowledge as necessary. Has gained a thorough
-  knowledge of the domain of the organisation. Is able to apply the knowledge
-  effectively in unfamiliar situations and actively maintains own knowledge and
-  shares with others. Rapidly absorbs and critically assesses new information and
-  applies it effectively.
+- Has a thorough understanding of recognised generic industry bodies of
+  knowledge and specialist bodies of knowledge as necessary. Has gained a
+  thorough knowledge of the domain of the organisation. Is able to apply the
+  knowledge effectively in unfamiliar situations and actively maintains own
+  knowledge and shares with others. Rapidly absorbs and critically assesses new
+  information and applies it effectively.
 
 ## Skills
 
@@ -126,14 +127,15 @@ Summary as follows:
 - Provides technical expertise to enable the correct application of operational
   procedures.
 - Contributes to the planning and implementation of infrastructure maintenance
-  and updates. Implements agreed infrastructure changes and maintenance routines.
+  and updates. Implements agreed infrastructure changes and maintenance
+  routines.
 - Uses infrastructure management tools to determine load and performance
   statistics. Configures tools and/or creates scripts to automate the
   provisioning, testing and deployment of new and changed infrastructure.
   Maintains operational procedures and checks that they are executed following
   agreed standards.
-- Investigates and enables the resolution of operational issues. Provides reports
-  and proposals for improvement, to specialists, users and managers.
+- Investigates and enables the resolution of operational issues. Provides
+  reports and proposals for improvement, to specialists, users and managers.
 
 ### Data Maturity
 
@@ -147,8 +149,8 @@ Summary as follows:
 
 #### Data science
 
-- Investigates the described problem and dataset to assess the usefulness of data
-  science and analytics solutions.
+- Investigates the described problem and dataset to assess the usefulness of
+  data science and analytics solutions.
 - Applies a range of data science techniques and uses specialised programming
   languages. Understands and applies rules and guidelines specific to the
   industry, and anticipates risks and other implications of modelling.
@@ -165,8 +167,8 @@ Summary as follows:
 - Investigates the need for business intelligence reporting and analysis where
   there is some complexity and ambiguity.
 - Selects and applies non-standard business intelligence tools and techniques to
-  provide insights and aid decision-making. Selects, acquires and integrates data
-  for analysis.
+  provide insights and aid decision-making. Selects, acquires and integrates
+  data for analysis.
 - Identifies opportunities to digitise and streamline operational data handling
   and optimise business intelligence capabilities.
 
@@ -206,9 +208,9 @@ Summary as follows:
 
 - Provides technical expertise to enable the configuration of system components
   and equipment for systems testing.
-- Collaborates with technical teams to develop and agree system integration plans
-  and report on progress. Defines complex/new integration builds. Ensures that
-  integration test environments are correctly configured.
+- Collaborates with technical teams to develop and agree system integration
+  plans and report on progress. Defines complex/new integration builds. Ensures
+  that integration test environments are correctly configured.
 - Designs, performs and reports results of tests of the integration build.
   Identifies and documents system integration components for recording in the
   configuration management system.
@@ -216,8 +218,8 @@ Summary as follows:
 
 #### Database design
 
-- Implements physical database designs to support transactional data requirements
-  for performance and availability.
+- Implements physical database designs to support transactional data
+  requirements for performance and availability.
 - Develops and maintains specialist knowledge of database and data warehouse
   concepts, design principles, architectures, software and facilities.
 - Assesses proposed changes to object/data structures and evaluates alternative
@@ -232,8 +234,8 @@ Summary as follows:
 - Designs, specifies and executes test cases and scenarios to test that systems,
   products and services fulfil the acceptance criteria and deliver the predicted
   business benefits.
-- Collaborates with project colleagues and stakeholders involved in the analysis,
-  development and operation of products, systems or services to ensure accuracy
-  and comprehensive test coverage.
+- Collaborates with project colleagues and stakeholders involved in the
+  analysis, development and operation of products, systems or services to ensure
+  accuracy and comprehensive test coverage.
 - Analyses and reports on test activities, results, issues and risks including
   the work of others.

@@ -16,4 +16,4 @@ community.
 
 ## SFIA Level
 
-SFIA level outline can be found [here](levels/sfia_principal_data_engineer.md).
+SFIA level outline can be found [here](sfia/sfia_principal_data_engineer.md).

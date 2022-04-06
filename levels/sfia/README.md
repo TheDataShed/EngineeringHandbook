@@ -5,13 +5,13 @@ which to express the requirements and expectations for Engineers at all levels
 at The Data Shed.
 
 Our aim is to both provide clear guidance as to the areas in which we expect our
-Engineers to be capable but also provide a structure flexible to accommodate
-the variable needs and expectations of our Engineers' career paths.
+Engineers to be capable but also provide a structure flexible to accommodate the
+variable needs and expectations of our Engineers' career paths.
 
 ## Progression
 
-The below is intended to represent the approximate development of an Engineer
-at The Data Shed:
+The below is intended to represent the approximate development of an Engineer at
+The Data Shed:
 
 |               |                      |                      |
 | ------------- | -------------------- | -------------------- |
@@ -20,23 +20,23 @@ at The Data Shed:
 | Data Maturity |                      | Engineering Maturity |
 |               | Technical Leadership |                      |
 
-1. Firstly, there are a set of core competencies expected of *all* Shedders,
+1. Firstly, there are a set of core competencies expected of _all_ Shedders,
    regardless of which function in which they operate.
-2. Next, there are a set of skills which form the basis of *all* our Engineers'
+2. Next, there are a set of skills which form the basis of _all_ our Engineers'
    abilities, regardless of their level.
 3. Progressing further, there are potentially divergent paths and skill sets
    which and Engineer may pursue (named "Data-" and "Engineering-" maturity,
    above.)
-4. Finally, there are some expectations when Engineers progress into a
-   Technical Leadership.
+4. Finally, there are some expectations when Engineers progress into a Technical
+   Leadership.
 
 As Engineers progress, the expected SFIA levels progress accordingly.
 
 ### Core (Shedder)
 
-While progression and specific roles may place further requirements on
-expected levels, the below constitutes the minimum requirements for all
-working at The Data Shed:
+While progression and specific roles may place further requirements on expected
+levels, the below constitutes the minimum requirements for all working at The
+Data Shed:
 
 Summary as follows:
 
@@ -64,8 +64,8 @@ Summary as follows:
 
 - Produces information artefacts that are accurate, current, relevant and easily
   understood by the intended audience.
-- Clarifies detailed content requirements with clients and representatives of the
-  intended audience.
+- Clarifies detailed content requirements with clients and representatives of
+  the intended audience.
 - Designs, creates, controls and evaluates moderately complex subject matter.
 - Makes informed decisions about the best way to present information to an
   audience. Applies moderation and editing processes to content supplied by

@@ -1,6 +1,5 @@
 on: [push]
 jobs:
-
   pre_commit:
     runs-on: ubuntu-latest
     steps:
@@ -8,6 +7,6 @@ jobs:
       - uses: actions/cache@v2
         with:
           path: /home/runner/.cache/
-          key: 'pre-commit==2.15.0'
+          key: "pre-commit==2.15.0"
       - run: python3 -m pip install pre-commit==2.15.0
       - run: pre-commit run --all

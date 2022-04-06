@@ -24,8 +24,8 @@ ssh-keygen -t ed25519 -C "<email-address>"
 ls -la ~/.ssh
 ```
 
-You should see your key listed there. The .pub file is what you will want to
-add to your gitlab/github account under ssh keys.
+You should see your key listed there. The .pub file is what you will want to add
+to your gitlab/github account under ssh keys.
 
 #### SSH On Mac
 
@@ -71,8 +71,8 @@ These are some other tools that don't quite fit in the two options above
 
 ## Configuration
 
-This section deals with options in the `.git/config` file that make your
-commits look *pristine*!
+This section deals with options in the `.git/config` file that make your commits
+look _pristine_!
 
 You can set the following options through the command line. Pass the --global
 flag if you want to set these as the default otherwise remove the flag to have
@@ -87,8 +87,8 @@ git config --global commit.gpgsign true
 git config --global tag.gpgSign true
 ```
 
-Set your .git/config to below to reap the benefits of git delta diffs
-These can also go in your home directory .gitconfig file for it to cascade.
+Set your .git/config to below to reap the benefits of git delta diffs These can
+also go in your home directory .gitconfig file for it to cascade.
 
 ```toml
 [core]
