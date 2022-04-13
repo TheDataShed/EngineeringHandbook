@@ -75,8 +75,7 @@ Go [here](guides/operations) for operational guides.
 
 ### Levels
 
-Go [here](levels) for definitions of positions at The Data Shed and their 
-matching
+Go [here](levels) for definitions of roles at The Data Shed and their matching
 [SFIA levels](https://sfia-online.org/en/sfia-8/sfia-8) .
 
 - [Associate Data Engineer](levels/associate_data_engineer.md)
@@ -85,8 +84,7 @@ matching
 - [Senior Data Engineer](levels/senior_data_engineer.md)
 - [Principal Data Engineer](levels/principal_data_engineer.md)
 - [Engineering Manager](levels/engineering_manager.md)
-- [Senior Engineering Manager](levels/senior-engineering_manager.md)
-- [Roles](levels/roles)
+- [Tech Lead](levels/roles/tech_lead.md)
 
 ### Policies
 
