@@ -6,8 +6,8 @@
 
 ## Welcome
 
-Welcome to the Shedronomicon. In these cursed pages you may find everything you
-need for your journey as a Data Shed employee. If the passage does not yet
+Welcome to the Shedronomicon. In these cursed pages you may find everything you 
+need for your journey as a Data Shed employee. If the passage does not yet 
 exist, have it inscribed…
 
 ## Contributing
