@@ -17,20 +17,40 @@ outcome.
 
 ### Commercial Synergy
 
-- Participates in Stakeholder (business and tech) meetings after a _lead_ has
+- participates in Stakeholder (business and tech) meetings after a _lead_ has
   become an _opportunity_ to assist in gathering and refining requirements.
-- Evaluates the requirements on feasibility and fit for the present
+- evaluates the requirements on feasibility and fit for the present
   client/business problem from a techical point of view.
-- Assists in compilling commercial agreements including proposals and Statements
+- assists in compilling commercial agreements including proposals and Statements
   of Work (SOW) by:
   - contibuting to listing deliverables,
   - identifying assumptions and risks, and
   - estimating effort and cost **with Professional Services**
-- Account growth opportunity
-- Monitoring and alerting
+- account growth opportunity
+- monitoring and alerting
 
 ### Delivery Synergy
 
-- Elaborates with the **Delivery Function** on time and resources for the
+- elaborates with the **Delivery Function** on time and resources for the
   opportunity
-- Resourcing _capacity_ and _capability_
+- resourcing _capacity_ and _capability_
+- team formation as a framework
+- early assessment on required skills and levels
+- monitoring and alerting
+- technical refinement and evaluation of proposed solution (SoW)
+- resourcing Capability (skills and levels) 
+- account growth opportunity
+- monitoring and alerting
+- requirements and opportunities
+- recruiting* Team formation as a framework
+
+### Engineering Consulting - Tech Ops Synergy
+
+- potential Tech Ops/Service Managemnt opportunities at early and mid delivery 
+  stage
+- account growth opportunity
+
+### Engineering Consulting - People Synergy
+
+- resourcing Capability
+- training and Development
