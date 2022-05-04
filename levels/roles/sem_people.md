@@ -22,7 +22,7 @@ through the following processes:
 ## Retention
 
 - understanding and implementing drivers to improve retention.
-- ensuring that the Line Management Battle Ryhthm[^1] (1-2-1s, QPRs etc) is
+- ensuring that the Line Management Battle Rhythm[^1] (1-2-1s, QPRs etc) is
   adhered to
 - understanding and mitigating single points of failure.
 
