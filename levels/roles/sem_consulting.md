@@ -38,15 +38,15 @@ outcome.
 - early assessment on required skills and levels
 - monitoring and alerting
 - technical refinement and evaluation of proposed solution (SoW)
-- resourcing Capability (skills and levels) 
+- resourcing Capability (skills and levels)
 - account growth opportunity
 - monitoring and alerting
 - requirements and opportunities
-- recruiting* Team formation as a framework
+- recruiting\* Team formation as a framework
 
 ### Engineering Consulting - Tech Ops Synergy
 
-- potential Tech Ops/Service Managemnt opportunities at early and mid delivery 
+- potential Tech Ops/Service Managemnt opportunities at early and mid delivery
   stage
 - account growth opportunity
 
