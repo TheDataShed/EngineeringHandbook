@@ -7,6 +7,8 @@ repos:
     rev: "v2.6.0" # Use the sha or tag you want to point at
     hooks:
       - id: prettier
+        stages:
+          - commit
         args:
           - "--prose-wrap"
           - "always"
