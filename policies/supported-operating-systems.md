@@ -64,11 +64,11 @@ Either option should take place within 6 months.
 The table below describes the operating systems that can be used at The Data
 Shed.
 
-| Operating System | Version     | How to check                                                                                                                                                                         |
-| ---------------- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| macOS            | 10.6        | [macOS version](https://support.apple.com/en-us/HT201260)                                                                                                                            |
-| Windows          | 10 (21H1)   | [Windows version](https://support.microsoft.com/en-us/windows/which-version-of-windows-operating-system-am-i-running-628bec99-476a-2c13-5296-9dd081cdd808#WindowsVersion=Windows_10) |
-| Ubuntu           | 20.04.3 LTS | [Ubuntu version](https://refspecs.linuxfoundation.org/LSB_3.0.0/LSB-PDA/LSB-PDA/lsbrelease.html)                                                                                     |
+| Operating System | Version        | How to check                                                                                                                                                                         |
+| ---------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| macOS            | 11.1+, 12.3.1+ | [macOS version](https://support.apple.com/en-us/HT201260)                                                                                                                            |
+| Windows          | 10 (21H1), 11  | [Windows version](https://support.microsoft.com/en-us/windows/which-version-of-windows-operating-system-am-i-running-628bec99-476a-2c13-5296-9dd081cdd808#WindowsVersion=Windows_10) |
+| Ubuntu           | 20.04.3 LTS    | [Ubuntu version](https://refspecs.linuxfoundation.org/LSB_3.0.0/LSB-PDA/LSB-PDA/lsbrelease.html)                                                                                     |
 
 ### Tablets and mobile devices
 
@@ -77,5 +77,5 @@ mobile devices at The Data Shed.
 
 | Operating System | Version | How to check                                                                  |
 | ---------------- | ------- | ----------------------------------------------------------------------------- |
-| iOS              | 15.0.1  | [iOS version](https://support.apple.com/en-gb/HT201685)                       |
+| iOS              | 15.0.1+ | [iOS version](https://support.apple.com/en-gb/HT201685)                       |
 | Android          | >=11    | [Android version](https://support.google.com/android/answer/7680439?hl=en-GB) |
