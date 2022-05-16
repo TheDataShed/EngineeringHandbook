@@ -61,7 +61,7 @@ and process we use at The Data Shed.
 - [Git](guides/technical%20guides/git.md)
 - [Test Driven Development](guides/technical%20guides/test-driven-development.md)
 
-Go [here](guides/standards) for coding stadards for languages we use at The Data
+Go [here](guides/standards) for coding standards for languages we use at The Data
 Shed.
 
 - [Python](standards/python-standards.md)
