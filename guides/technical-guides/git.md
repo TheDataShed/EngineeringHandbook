@@ -29,12 +29,39 @@ to your gitlab/github account under ssh keys.
 
 #### SSH On Mac
 
+```bash
+ssh-keygen -t ed25519 -C "<email-address>"
+
+# verify it's there.
+ls -la ~/.ssh
+```
+
+Add the contents of `~/.ssh/id_ed25519` to your GitHub account under SSH keys.
+
+Use the following instructions to set your SSH key in your Git Config. Use
+`--global` to set this globally or omit `--global` for this to be repo specific.
+
+```bash
+nano ~/.ssh/config
+```
+
+Add the following lines to the file:
+
+```text
+Host github.com
+  User git
+  Hostname github.com
+  IdentityFile ~/.ssh/id_ed25519
+```
+
+You should now be able to use the SSH key(s) to authenticate with GitHub.
+
 #### SSH on Windows
 
 ### GPG Keys
 
 Having a gpg key pair for your work address will allow you to sign commits and
-tags
+tags.
 
 #### GPG on Linux
 
@@ -44,6 +71,59 @@ gpg --full-generate-key
 
 Make sure that your email address is the one you will set as your git commit
 email address. Add the public key to your github/gitlab account.
+
+#### GPG on Mac
+
+You will need [Homebrew](https://brew.sh/) in order to install `gpg` on your
+Mac.
+
+Install `gpg`:
+
+```bash
+brew install gpg
+```
+
+Generate your key:
+
+```bash
+gpg --full-generate-key
+```
+
+_Tip: It's a good idea to use **LastPass** to generate and store your private
+key passphrase. If you ever need to re-export your private key, you'll need the
+passphrase._
+
+Follow the prompts to generate your key. Ensure the email address you use is the
+same email address you will use for your Git commits.
+
+Export the keys to file(s). The below commands will export both your public and
+private keys to your home directory:
+
+```bash
+gpg --list-secret-keys
+gpg --output public.pgp --armor --export <your email address>
+gpg --output private.pgp --armor --export-secret-key <your email address>
+```
+
+Sometimes, you may need to update a `gpg` setting so that commits can be signed
+successfully by `gpg` on Mac.
+
+```bash
+export GPG_TTY=$(tty)
+```
+
+You can test if this has worked with:
+
+```bash
+echo "test" | gpg --clearsign
+```
+
+Add the public key from `public.pgp` to your GitHub/GitLab account under "GPG
+Keys".
+
+Once the public key is added to your account, follow the instructions in the
+[Configuration](#configuration) section below to configure your GPG key for use
+with Git.
 
 ## Optional Tools
 
@@ -78,6 +158,13 @@ You can set the following options through the command line. Pass the --global
 flag if you want to set these as the default otherwise remove the flag to have
 it be repo specific
 
+Set your name and email address so the commit can be attributed to yourself:
+
+```bash
+git config --global user.name "<First> <Last>"
+git config --global user.email "<email address>"
+```
+
 ```bash
 # Find out your key id
 gpg --list-keys <your-email-address-from-above>
@@ -106,6 +193,8 @@ also go in your home directory .gitconfig file for it to cascade.
 [diff]
     colorMoved = default
 ```
+
+_NB: Be careful not to overwrite existing Git config options._
 
 ## Pre-Commit Hooks
 
