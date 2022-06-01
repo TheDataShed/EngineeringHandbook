@@ -14,10 +14,10 @@ through the following processes:
 ## Development
 
 - ensuring that Data Engineers are engaged in a suitable Learning and
-  development plan and have approparite objectives related to it.
+  development plan and have appropriate objectives related to it.
 - ensuring Learning and Development days are appropriately planned and utilized.
 - identitfying skill gaps and appropriate Champions that can help reduce those
-  gaps through mentoring and knowledge sharing (utilzing the skills matrix).
+  gaps through mentoring and knowledge sharing (utilizing the skills matrix).
 
 ## Retention
 
