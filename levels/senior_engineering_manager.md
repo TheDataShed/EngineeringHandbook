@@ -1,7 +1,7 @@
 # Senior Engineering Manager
 
 The Senior Engineering Manager (SEM) role inherits all the responsibilities and
-accountabilites of an [Engineering Manager (EM)](engineering_manager.md) and
+accountability of an [Engineering Manager (EM)](engineering_manager.md) and
 extends further in order to achieve key organisational objectives defined and
 measured (with relevant KPIs) by the Board together with the Senior Management
 Team (SMT).

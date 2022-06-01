@@ -7,7 +7,7 @@ through the following processes:
 
 ## Recruitment
 
-- working closely with the Talent Aquisition Manager to ensure high quality
+- working closely with the Talent acquisition Manager to ensure high quality
   standards around the recruitment of Data Engineers.
 - ensuring that key skills are recruited for where required.
 
@@ -16,7 +16,7 @@ through the following processes:
 - ensuring that Data Engineers are engaged in a suitable Learning and
   development plan and have appropriate objectives related to it.
 - ensuring Learning and Development days are appropriately planned and utilized.
-- identitfying skill gaps and appropriate Champions that can help reduce those
+- identifying skill gaps and appropriate Champions that can help reduce those
   gaps through mentoring and knowledge sharing (utilizing the skills matrix).
 
 ## Retention

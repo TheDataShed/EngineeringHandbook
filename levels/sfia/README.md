@@ -62,7 +62,7 @@ Summary as follows:
 
 #### Content authoring
 
-- Produces information artefacts that are accurate, current, relevant and easily
+- Produces information artifacts that are accurate, current, relevant and easily
   understood by the intended audience.
 - Clarifies detailed content requirements with clients and representatives of
   the intended audience.
