@@ -16,6 +16,8 @@
 
 *[PM]: Project Manager
 
+*[SEM]: Senior Engineering Manager
+
 *[SME]: Subject Matter Expert
 
 *[SSO]: Single Sign-On

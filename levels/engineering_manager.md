@@ -1,6 +1,6 @@
 # Engineering Manager
 
-Out Engineering Managers help lead the Engineering Function. They take on a
+Our Engineering Managers help lead the Engineering Function. They take on a
 broad range of responsibilities covering both technical and people management.
 
 ## What is an Engineering Manager?
