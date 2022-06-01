@@ -17,12 +17,11 @@ documentation[^1] on the matter should be the point of reference.
 gitGraph:
     checkout main
     commit
+    branch short-lived-branch
     checkout short-lived-branch
     commit
     commit
     checkout main
-    commit
-    commit
     merge short-lived-branch
     commit
 ```
@@ -50,14 +49,16 @@ these are merged into both the main and release branches.
 gitGraph:
     checkout main
     commit
+    branch release
     checkout release
+    branch short-lived-branch
     checkout short-lived-branch
     commit
     commit
     checkout release
     merge short-lived-branch
     checkout main
-    merge short-lived-branch
+    merge release
     commit
 ```
 
