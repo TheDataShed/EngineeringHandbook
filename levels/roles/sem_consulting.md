@@ -38,7 +38,7 @@ outcome.
 - early assessment on required skills and levels
 - monitoring and alerting
 - technical refinement and evaluation of proposed solution (SoW)
-- resourcing Capability (skills and levels)
+- resourcing capability (skills and levels)
 - account growth opportunity
 - monitoring and alerting
 - requirements and opportunities
@@ -52,5 +52,5 @@ outcome.
 
 ### Engineering Consulting - People Synergy
 
-- resourcing Capability
+- resourcing capability
 - training and Development
