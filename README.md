@@ -24,7 +24,7 @@ pre-commit run --all-files
 ```
 
 You can find more info on pre-commit hooks
-[here](guides/technical%20guides/git.md)
+[here](guides/technical-guides/git.md)
 
 ## Table of contents
 
@@ -54,12 +54,12 @@ approach Engineering at The Data Shed.
 - [Release Notes](guides/release-notes.md)
 - [Testing](guides/testing.md)
 
-Go [here](guides/technical%20guides) for more technical guides on technologies
-and process we use at The Data Shed.
+Go [here](guides/technical-guides) for more technical guides on technologies and
+process we use at The Data Shed.
 
-- [Docker](guides/technical%20guides/docker.md)
-- [Git](guides/technical%20guides/git.md)
-- [Test Driven Development](guides/technical%20guides/test-driven-development.md)
+- [Docker](guides/technical-guides/docker.md)
+- [Git](guides/technical-guides/git.md)
+- [Test Driven Development](guides/technical-guides/test-driven-development.md)
 
 Go [here](guides/standards) for coding standards for languages we use at The
 Data Shed.
