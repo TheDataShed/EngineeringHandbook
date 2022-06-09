@@ -18,6 +18,8 @@
 
 *[SEM]: Senior Engineering Manager
 
+*[SFIA]: Skills Framework for the Information Age
+
 *[SME]: Subject Matter Expert
 
 *[SSO]: Single Sign-On
