@@ -91,4 +91,4 @@ matching [SFIA levels](https://sfia-online.org/en/sfia-8/sfia-8).
 
 Go [here](policies) for policies we adhere to at The Data Shed.
 
-- [Supported Operation Systems](policies/supported-operating-systems.md)
+- [Supported Operating Systems](policies/supported-operating-systems.md)
