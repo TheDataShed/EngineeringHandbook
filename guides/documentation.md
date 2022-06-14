@@ -83,7 +83,7 @@ def is_valid_first_name(name):
 ```
 
 Now whether this function handles all cases is irrelevant to the point, what we
-want to orchestrate is that we should be describing what the function does and
+want to articulate is that we should be describing what the function does and
 give general hints as to how the logic in the function is carried out. What we
 do not want to do or mandate is that we explain how regular expressions work,
 what the re library is, explain the difference between a raw string and a
