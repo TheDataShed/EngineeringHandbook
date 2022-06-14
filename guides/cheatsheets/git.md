@@ -9,6 +9,9 @@ version control system that's responsible for everything GitHub related that
 happens locally on your computer. This cheatsheet features the most important
 and commonly used Git commands for easy reference.
 
+Full Git Techincal Guide can be
+[here](https://github.com/TheDataShed/EngineeringHandbook/blob/main/guides/technical-guides/git.md).
+
 ## **Cheatsheet includes:**
 
     1. Installation & GUI
@@ -30,7 +33,16 @@ staying up-to-date with the latest releases of the command line tool while
 providing a graphical user interface for day-to-day interaction, review, and
 repository synchronisation.
 
-You can download Git for Windows and Mac [here](https://desktop.github.com/).
+You can download Git for Windows and Mac [here](https://git-scm.com/).
+
+If you prefer the Git Desktop client, navigate
+[here](https://desktop.github.com/).
+
+Alternative GUI programs are also available:
+
+- [SourceTree](https://www.sourcetreeapp.com/)
+- [Git Kraken](https://www.gitkraken.com/)
+- [VS Code Extension - GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 ---
 
@@ -47,6 +59,12 @@ _Set a name that is identifiable you when review version history_.
 _Set an email address_.
 
     git config --global user.email “[valid-email]”
+
+_Adding the `--local` option or not passing a config level option at all, will
+set the user.name for the current local repository._.
+
+    git config --local user.name "[First] [Last]"
+    git config --local user.email “[valid-email]”
 
 ## **SETUP & INIT**
 
@@ -78,7 +96,7 @@ _Add a file as it looks now to your next commit (stage)_.
 
 _Add everything your next commit_.
 
-    git add *
+    git add .
 
 _Commit your staged content as a new commit snapshot_.
 
@@ -91,7 +109,16 @@ _Upload any changes to your local repository to your remote repository_.
 _Upload any changes to your local repository to your remote repository,
 rewriting the git history (index)_.
 
+NOTE: It's normally discouraged except for certain use cases like squashing
+commits.
+
     git push -f
+
+_If you find yourself in a situation where you are required to do a force push,
+you can push multiple branches and only force one like so: (+ denotes that the
+following branch will be force pushed (issue/1))_.
+
+    git push origin +issue/1 issue/2
 
 _Unstage a file while retaining the changes in working directory_.
 
@@ -196,9 +223,9 @@ _Show all commit logs with indication of any paths that moved_.
 
 ---
 
-Preventing unintentional staging or commiting of files.
+Preventing unintentional staging or committing of files.
 
-_Save a file with desired paterns as .gitignore with either direct string
+_Save a file with desired patterns as .gitignore with either direct string
 matches or wildcard globs_.
 
     logs/
