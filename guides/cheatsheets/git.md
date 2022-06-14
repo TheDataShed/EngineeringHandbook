@@ -4,9 +4,13 @@
 
 ## **Welcome!**
 
-Version control is the essence of engineering here at the Shed. Git is a free version control system that's responsible for everything GitHub related that happens locally on your computer. This cheatsheet features the most important and commonly used Git commands for easy reference.
+Version control is the essence of engineering here at the Shed. Git is a free
+version control system that's responsible for everything GitHub related that
+happens locally on your computer. This cheatsheet features the most important
+and commonly used Git commands for easy reference.
 
 ## **Cheatsheet includes:**
+
     1. Installation & GUI
     2. Setup
     3. Setup & Init
@@ -19,265 +23,256 @@ Version control is the essence of engineering here at the Shed. Git is a free ve
     10. Rewrite History
     11. Temporary Commits
 
-  
-
 ## **Installation & GUI**
 
-With platform specific installers for Git, GitHub also provides the ease of staying up-to-date with the latest releases of the command line tool while providing a graphical user interface for day-to-day interaction, review, and repository synchronisation.
+With platform specific installers for Git, GitHub also provides the ease of
+staying up-to-date with the latest releases of the command line tool while
+providing a graphical user interface for day-to-day interaction, review, and
+repository synchronisation.
 
 You can download Git for Windows and Mac [here](https://desktop.github.com/).
 
 ---
+
 ## **SETUP**
-----
+
+---
+
 Configuring user information used across all local repositories.
 
-*Using the command below, you can set a name that is identifiable you when review version history*.
+_Set a name that is identifiable you when review version history_.
 
-```  
-git config --global user.name “[firstname lastname]”
-```
+    git config --global user.name “[firstname lastname]”
 
-*Set an email address*.
+_Set an email address_.
 
-```
-git config --global user.email “[valid-email]”
-```
+    git config --global user.email “[valid-email]”
 
 ## **SETUP & INIT**
 
 Below are commands for initializing and cloning repositories.
 
-*Initialise an existing directory as a Git repository*.
-```
-git init
-```
-*Retrieve an entire repository from a hosted location via URL*.
-```
-git clone [url]
-```
-----
-## **STAGE & SNAPSHOT**
+_Initialise an existing directory as a Git repository_.
+
+    git init
+
+_Retrieve an entire repository from a hosted location via URL_.
+
+    git clone [url]
+
 ---
+
+## **STAGE & SNAPSHOT**
+
+---
+
 Working with snapshots and the Git staging area.
 
-*Show modified files in working directory, staged for your next commit*.
-```
-git status
-```
-*Add a file as it looks now to your next commit (stage)*.
-```
-git add [file]
-```
+_Show modified files in working directory, staged for your next commit_.
 
-*Add everything your next commit*.
-```
-git add *
-```
-*Commit your staged content as a new commit snapshot*.
-```
-git commit -m “[descriptive message]”
-```
+    git status
 
-*Upload any changes to your local repository to your remote repository*.
-```
-git push
-```
+_Add a file as it looks now to your next commit (stage)_.
 
-*Upload any changes to your local repository to your remote repository, rewriting the git history (index)*.
-```
-git push -f   !---- USE WITH CAUTION ----!
-```
+    git add [file]
 
+_Add everything your next commit_.
 
-*Unstage a file while retaining the changes in working directory*.
-```
-git reset [file]
-```
-*Diff of what is changed but not staged*.
-```
-git diff
-```
+    git add *
 
-*Diff of what is staged but not yet commited*.
-```
-git diff --staged
-```
+_Commit your staged content as a new commit snapshot_.
 
+    git commit -m “[descriptive message]”
 
+_Upload any changes to your local repository to your remote repository_.
 
-----
+    git push
+
+_Upload any changes to your local repository to your remote repository,
+rewriting the git history (index)_.
+
+    git push -f
+
+_Unstage a file while retaining the changes in working directory_.
+
+    git reset [file]
+
+_Diff of what is changed but not staged_.
+
+    git diff
+
+_Diff of what is staged but not yet commited_.
+
+    git diff --staged
+
+---
+
 ## **BRANCH & MERGE**
-----
+
+---
+
 Isolating work in branches, changing context, and integrating changes.
 
-*List your branches. a * will appear next to the currently active branch*.
-```
-git branch
-```
+_List your branches. a\*will appear next to the currently active branch\._
 
-*Create a new branch*.
-```
-git branch [branch-name]
-```
+    git branch
 
+_Create a new branch_.
 
-*Switch to another branch and check it out into your working directory*.
-```
-git checkout
-```
+    git branch [branch-name]
 
-*Switch to the specified branch. Creates the branch in your local repository if it doesn't already exist*.
-```
-git checkout -b [branch_name]
-```
+_Switch to another branch and check it out into your working directory_.
 
-*Merge the specified branch’s history into the current one*.
-```
-git merge [branch]
-```
+    git checkout
 
-*Show all commits in the current branch’s history*.
-```
-git log
-```
-----------
+_Switch to the specified branch. Creates the branch in your local repository if
+it doesn't already exist_.
+
+    git checkout -b [branch_name]
+
+_Merge the specified branch’s history into the current one_.
+
+    git merge [branch]
+
+_Show all commits in the current branch’s history_.
+
+    git log
+
+---
+
 ## **INSPECT & COMPARE**
-----------
+
+---
+
 Examining logs, diffs and object information.
 
-*Show the commit history for the currently active branch*.
-```
-git log 
-```
+_Show the commit history for the currently active branch_.
 
-*Show the commits on branchA that are not on branchB*.
-```
-git log branchB..branchA
-```
+    git log
 
-*Show the commits that changed file, even across renames*.
-```
-git log --follow [file]
-```
+_Show the commits on branchA that are not on branchB_.
 
-*Get the author of a commit*.
-```
-git blame [commit_hash]
-```
+    git log branchB..branchA
 
-*Show the diff of what is in branchA that is not in branchB*.
-```
-git diff branchB...branchA
-```
+_Show the commits that changed file, even across renames_.
 
-*Show any object in Git in human-readable format*.
-```
-git show [SHA]
-```
-----------
+    git log --follow [file]
+
+_Get the author of a commit_.
+
+    git blame [commit_hash]
+
+_Show the diff of what is in branchA that is not in branchB_.
+
+    git diff branchB...branchA
+
+_Show any object in Git in human-readable format_.
+
+    git show [SHA]
+
+---
+
 ## **TRACKING PATH CHANGES**
-----------
+
+---
+
 Versioning file removes and path changes.
 
-*Delete the file from project and stage the removal for commit*.
-```
-git rm [file]
-```
+_Delete the file from project and stage the removal for commit_.
 
-*Change an existing file path and stage the move*.
-```
-git mv [existing-path] [new-path]
-```
+    git rm [file]
 
-*Show all commit logs with indication of any paths that moved*.
-```
-git log --stat -M
-```
+_Change an existing file path and stage the move_.
 
-----------
+    git mv [existing-path] [new-path]
+
+_Show all commit logs with indication of any paths that moved_.
+
+    git log --stat -M
+
+---
+
 ## **IGNORING PATTERNS**
-----------
+
+---
+
 Preventing unintentional staging or commiting of files.
 
+_Save a file with desired paterns as .gitignore with either direct string
+matches or wildcard globs_.
 
-*Save a file with desired paterns as .gitignore with either direct string
-matches or wildcard globs*.
-```
-logs/
-*.notes
-pattern*/
-```
+    logs/
+    *.notes
+    pattern*/
 
-*System wide ignore patern for all local repositories*.
-```
-git config --global core.excludesfile [file]
-```
+_System wide ignore patern for all local repositories_.
 
-----------
+    git config --global core.excludesfile [file]
+
+---
+
 ## **SHARE & UPDATE**
-----------
+
+---
+
 Retrieving updates from another repository and updating local repos.
 
+_Add a git URL as an alias_.
 
-*Add a git URL as an alias*.
-```
-git remote add [alias] [url]
-```
+    git remote add [alias] [url]
 
-*Fetch down all the branches from that Git remote*.
-```
-git fetch [alias]
-```
+_Fetch down all the branches from that Git remote_.
 
-*Merge a remote branch into your current branch to bring it up to date*.
-```
-git merge [alias]/[branch]
-```
-*Transmit local branch commits to the remote repository branch*.
-```
-git push [alias] [branch]
-```
+    git fetch [alias]
 
-*Fetch and merge any commits from the tracking remote branch*.
-```
-git pull
-```
-----------
+_Merge a remote branch into your current branch to bring it up to date_.
+
+    git merge [alias]/[branch]
+
+_Transmit local branch commits to the remote repository branch_.
+
+    git push [alias] [branch]
+
+_Fetch and merge any commits from the tracking remote branch_.
+
+    git pull
+
+---
+
 ## **REWRITE HISTORY**
-----------
+
+---
+
 Rewriting branches, updating commits and clearing history.
 
-*Apply any commits of current branch ahead of specified one*.
-```
-git rebase [branch]
-```
-*Clear staging area, rewrite working tree from specified commit*.
-```
-git reset --hard [commit]      !--- USE WITH CAUTION ---!
-```
+_Apply any commits of current branch ahead of specified one_.
 
-----------
+    git rebase [branch]
+
+_Clear staging area, rewrite working tree from specified commit_.
+
+    git reset --hard [commit]
+
+---
+
 ## **TEMPORARY COMMITS**
-----------
+
+---
+
 Temporarily store modified, tracked files in order to change branches.
 
-*Save modified and staged changes*.
-```
-git stash
-```
+_Save modified and staged changes_.
 
-*List stack-order of stashed file changes*.
-```
-git stash list
-```
+    git stash
 
-*Write working from top of stash stack*.
-```
-git stash pop
-```
+_List stack-order of stashed file changes_.
 
-*Discard the changes from top of stash stack*.
-```
-git stash drop
-```
+    git stash list
+
+_Write working from top of stash stack_.
+
+    git stash pop
+
+_Discard the changes from top of stash stack_.
+
+    git stash drop
