@@ -94,10 +94,6 @@ _Add a file as it looks now to your next commit (stage)_.
 
     git add [file]
 
-_Add everything your next commit_.
-
-    git add .
-
 _Commit your staged content as a new commit snapshot_.
 
     git commit -m “[descriptive message]”
@@ -152,6 +148,19 @@ _Switch to another branch and check it out into your working directory_.
 
     git checkout
 
+_List out all branches in the local repository_.
+
+    git branch
+
+_Undo any changes you make and return to your previous branch_.
+
+    git switch [branch-name]
+
+_If you instead want to keep your changes and continue from here, you can use
+this command to create a new branch from this point_.
+
+    git switch -c [new-branch-name]
+
 _Switch to the specified branch. Creates the branch in your local repository if
 it doesn't already exist_.
 
@@ -177,9 +186,13 @@ _Show the commit history for the currently active branch_.
 
     git log
 
-_Show the commits on branchA that are not on branchB_.
+_Show commits on the current branch that aren't on `branchA`_.
 
-    git log branchB..branchA
+    git log branchA..
+
+_Show commits on the `branchA` that aren't on the current branch_.
+
+    git log ..branchA
 
 _Show the commits that changed file, even across renames_.
 
@@ -189,7 +202,7 @@ _Get the author of a commit_.
 
     git blame [commit_hash]
 
-_Show the diff of what is in branchA that is not in branchB_.
+_Show the diff of what is in `branchA` that is not in `branchB`_.
 
     git diff branchB...branchA
 
@@ -209,6 +222,10 @@ _Delete the file from project and stage the removal for commit_.
 
     git rm [file]
 
+_Remove it from Git's control but leave the file in place_.
+
+    git rm --cached
+
 _Change an existing file path and stage the move_.
 
     git mv [existing-path] [new-path]
@@ -227,6 +244,10 @@ Preventing unintentional staging or committing of files.
 
 _Save a file with desired patterns as .gitignore with either direct string
 matches or wildcard globs_.
+
+_You can navigate to the
+[gitignore](https://www.toptal.com/developers/gitignore/) website where you can
+create ignore files with ease, if you prefer_.
 
     logs/
     *.notes
@@ -260,9 +281,14 @@ _Transmit local branch commits to the remote repository branch_.
 
     git push [alias] [branch]
 
-_Fetch and merge any commits from the tracking remote branch_.
+_Fetch and merge any commits from the tracking remote branch IF
+remote-tracking_.
 
     git pull
+
+_If remote-tracking is not set up, you need to be more explicit to pull_.
+
+    git pull [remote] [branch]
 
 ---
 
