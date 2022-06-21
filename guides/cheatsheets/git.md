@@ -245,9 +245,12 @@ Preventing unintentional staging or committing of files.
 _Save a file with desired patterns as .gitignore with either direct string
 matches or wildcard globs_.
 
-_You can navigate to the
+You can navigate to the
 [gitignore](https://www.toptal.com/developers/gitignore/) website where you can
-create ignore files with ease, if you prefer_.
+create ignore files with ease, if you prefer.
+
+For python projects you can also use
+[cookiecutter-pypackage](https://github.com/TheDataShed/cookiecutter-pypackage).
 
     logs/
     *.notes
