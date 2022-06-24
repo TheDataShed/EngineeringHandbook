@@ -39,3 +39,14 @@ There are some tools which SHOULD be used on every project, where appropriate:
 - [`gitleaks`](https://github.com/zricethezav/gitleaks/): similar to
   `detect-secrets`, this aims to prevent to accidental addition of sensitive
   values.
+
+If you use pre-commit hooks for other
+[stages](https://pre-commit.com/index.html#confining-hooks-to-run-at-certain-stages),
+such as [`commitizen`](https://commitizen-tools.github.io/commitizen/) that's
+for the `commit-msg` stage, then you can simplify the usage by adding the
+following top-level options to your `.pre-commit-config.yaml` file:
+
+```yaml
+default_install_hook_types: ["pre-commit", "commit-msg"]
+default_stages: [commit]
+```
