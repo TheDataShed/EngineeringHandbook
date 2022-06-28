@@ -2,7 +2,7 @@
 
 ## Summary
 
-Documentation is central to the development work that we do at the Data Shed.
+Documentation is central to the development work that we do at The Data Shed.
 Every project should contain enough information to allow for new engineers
 joining the project to understand what is occurring in a given section of the
 code. That said, it does come with the caveat that the documentation should be
@@ -19,18 +19,19 @@ overburden someone with too much information.
 
 As a project starts off, we should define high level architectural diagrams of
 how the project is structured. We have used
-[mermaid](https://openbase.com/js/mermaid/documentation) successfully in the
-past on some projects as it integrates well with markdown files which is our
-recommended medium for technical documentation. The reason for this is that:
+[mermaid](https://mermaid-js.github.io/) successfully in the past on some
+projects as it integrates well with markdown files which is our recommended
+medium for technical documentation. The reason for this is that:
 
-1. It is plaintext and easy to search for using common cli tools
-2. It is a standard commonly used in spaces like confluence and being able to
-   copy and paste from your project into confluence for other users to be able
+1. It is plain text and easy to search for using common CLI tools
+2. It is a standard commonly used in spaces like Confluence and being able to
+   copy and paste from your project into Confluence for other users to be able
    to read is quite handy. _(There are tools available that you can use to
-   update confluence automatically with documentation from a git repo but that
+   update Confluence automatically with documentation from a git repo but that
    is something that will not be covered in this guide.)_
 3. It can easily be transformed into PDF documentation using a tool called
    [pandoc](https://pandoc.org/).
+4. It is version controlled and follows the code.
 
 High level operational guides should depict a general overview of how the
 project is structured as well as simple use cases around how to use the software
@@ -86,7 +87,7 @@ Now whether this function handles all cases is irrelevant to the point, what we
 want to articulate is that we should be describing what the function does and
 give general hints as to how the logic in the function is carried out. What we
 do not want to do or mandate is that we explain how regular expressions work,
-what the re library is, explain the difference between a raw string and a
+what the `re` library is, explain the difference between a raw string and a
 standard string, etc...
 
 Technical documentation should be used for the entire `src` equivalent directory

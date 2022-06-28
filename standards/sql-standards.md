@@ -8,7 +8,7 @@ formatting issues and arguments in merge requests. The resulted in a Shed
 specific set of rules that plug and play nicely with the tool
 [SQLFLUFF](https://www.sqlfluff.com/).
 
-Add the configuration file called sqlfluff.config to your project directory or
+Add the configuration file called `sqlfluff.config` to your project directory or
 somewhere referenced/linked to in your code editor of choice. The configuration
 setting:
 

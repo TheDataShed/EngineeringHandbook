@@ -89,7 +89,7 @@ everyone like adults, with wellbeing as a priority.
 ## Shedder Awards 🏆
 
 Each year, the Shedder Awards are held. Individuals are nominated by other
-shedders to receive an award relating to one of the Shed values.
+shedders to receive an award relating to one of The Shed values.
 
 If a person consistently demonstrates all 5 values throughout the year, they
 could be crowned "**Shedder of the year**"; a very prestigious title indeed!
