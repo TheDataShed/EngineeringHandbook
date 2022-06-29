@@ -173,8 +173,6 @@ situations. Please use real examples whenever possible.
     from? What did you do to get this cooperation?
 11. When you look back over your career is there a project that you been
     disappointed with and why?
-12. How do you ensure your technical skills and abilites are kept up to date?
-    Probe: When you set a learning goal, how do you go about achieving it?
 
 ---
 
