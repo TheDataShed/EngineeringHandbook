@@ -73,6 +73,10 @@ Go [here](guides/operations) for operational guides.
 - [Incidents](guides/operations/incidents.md)
 - [Monitoring](guides/operations/monitoring.md)
 
+Go [here](guides/cheatsheets) for engineering cheatsheets.
+
+- [Git](guides/cheatsheets/git.md)
+
 ### Levels
 
 Go [here](levels) for definitions of positions at The Data Shed and their
