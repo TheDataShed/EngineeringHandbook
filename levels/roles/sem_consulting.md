@@ -13,7 +13,7 @@ engineering technologies in order to:
 **Note**: space for innovation is not to be disregarded as a 4th possible
 outcome.
 
-## What does a SEM with focus on Engineering Consulting do in the Data Shed
+## What does a SEM with focus on Engineering Consulting do in The Data Shed
 
 ### Commercial Synergy
 
