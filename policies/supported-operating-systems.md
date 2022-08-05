@@ -68,7 +68,7 @@ Shed.
 | ---------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | macOS            | 11.1+, 12.3.1+ | [macOS version](https://support.apple.com/en-us/HT201260)                                                                                                                            |
 | Windows          | 10 (21H1), 11  | [Windows version](https://support.microsoft.com/en-us/windows/which-version-of-windows-operating-system-am-i-running-628bec99-476a-2c13-5296-9dd081cdd808#WindowsVersion=Windows_10) |
-| Ubuntu           | 20.04.3 LTS    | [Ubuntu version](https://refspecs.linuxfoundation.org/LSB_3.0.0/LSB-PDA/LSB-PDA/lsbrelease.html)                                                                                     |
+| Ubuntu           | 22.04 LTS      | [Ubuntu version](https://refspecs.linuxfoundation.org/LSB_3.0.0/LSB-PDA/LSB-PDA/lsbrelease.html)                                                                                     |
 
 ### Tablets and mobile devices
 
