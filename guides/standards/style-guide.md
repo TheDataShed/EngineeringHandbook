@@ -4,6 +4,13 @@ This style guide indicates the basic rules of writing content for the
 Shedronomicon. We aim to ensure consistency across our content and by doing so,
 attempt to avoid confusion or misunderstanding.
 
+## Brand
+
+A reminder from the brand guidelines (published December 2017):
+
+> When The Data Shed appears in copy, it should be written in sentence case with
+> initial capitals, i.e. The Data Shed.
+
 ## Nouns
 
 Capitalise proper nouns throughout. For instance:
