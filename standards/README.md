@@ -49,4 +49,5 @@ following top-level options to your `.pre-commit-config.yaml` file:
 ```yaml
 default_install_hook_types: ["pre-commit", "commit-msg"]
 default_stages: [commit]
+minimum_pre_commit_version: 2.18.0
 ```
