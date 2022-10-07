@@ -49,14 +49,72 @@ managing multiple Python versions for different projects.
 
 ### Virtual Environments
 
-For managing virtual environments using `pyenv`, use the
-[`pyenv-virtualenv`](https://github.com/pyenv/pyenv-virtualenv) plugin.
-**Note**: this is installed by default when using the above `pyenv-installer`
-tool.
+#### Creation
 
-See the `pyenv-virtualenv`
-[documentation](https://github.com/pyenv/pyenv-virtualenv#activate-virtualenv)
-on managing multiple virtual environments for different projects.
+The simplest means of creating virtual environments for your project is to use
+the builtin package in python 3
+[venv](https://docs.python.org/3/library/venv.html)
+
+It can be invoked in a new project simply by running
+
+```bash
+python -m venv .venv  # .venv is an arbitrary name it can be whatever you like
+```
+
+Once it is created it can be activated on Windows via:
+
+```bash
+source ./.venv/Scripts/activate
+# Deactivate
+deactivate
+```
+
+On Mac/Linux
+
+```bash
+source ./.venv/bin/activate
+
+# Deacticate
+deactivate
+```
+
+#### Auto Activation
+
+In order to have it subsequently auto-activate when you change directories to it
+and deactivate when you leave it then you can use the following in your
+equivalent `~/.bashrc` or `~/.zshrc` files
+
+For Bash Users:
+
+```bash
+alias dovenv="python -m venv .venv && source ./.venv/Scripts/activate"
+alias venva="source ./.venv/Scripts/activate"
+cd() {
+  builtin cd "$1"
+  MYENV="./.venv"
+
+  # When you cd into a folder that contains $MYENV
+  [[ -d $MYENV ]] && [[ ! $VIRTUAL_ENV ]] && venva
+
+  # When you cd into a folder that doesn't have
+  [[ ! -d $MYENV ]] && [[ $VIRTUAL_ENV ]] && deactivate
+}
+```
+
+For ZSH Users:
+
+```bash
+python_venv() {
+ MYVENV=./.venv
+ # When you cd into a folder that contains $MYENV
+ [[ -d $MYVENV ]] && [[ ! $VIRTUAL_ENV ]] && source $MYVENV/bin/activate
+ # when you cd into a folder that doesn't
+ [[ ! -d $MYVENV ]] && [[ $VIRTUAL_ENV ]] && deactivate
+}
+autoload -U add-zsh-hook
+add-zsh-hook chpwd python_venv
+python_venv
+```
 
 ## Formatting
 
