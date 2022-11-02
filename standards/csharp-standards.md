@@ -1,10 +1,10 @@
-# C# #
+# C\#
 
-## Formatting ##
+## Formatting
 
 We should aim for consistency and predictability across our C# code.
 
-### ReSharper ###
+### ReSharper
 
 C# code should be formatted using
 [`Resharper`](https://www.jetbrains.com/resharper/), using the latest
