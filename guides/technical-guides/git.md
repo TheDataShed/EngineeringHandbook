@@ -4,6 +4,14 @@ This guide is meant to set up some handy git configuration options and/or tools
 that should help you get set up quickly. This section will need to be filled in
 more for other operating systems as and when available.
 
+## Flight Rules
+
+Flight Rules is a fantastic GitHub repository which has a plethora of
+information about Git and all its quirks with various guides of how to do almost
+anything you may ever need to do in Git.
+
+You can find [flight-rules here](https://github.com/k88hudson/git-flight-rules).
+
 ## Initial Setup
 
 ### SSH Keys
