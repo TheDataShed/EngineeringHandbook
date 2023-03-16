@@ -67,7 +67,8 @@ We should aim for consistency and predictability across our Python code.
 Python code should be formatted using
 [`black`](https://pypi.org/project/black/), using the latest
 [stable](https://black.readthedocs.io/en/stable/the_black_code_style/index.html#stability-policy)
-version.
+version. [`Flake8`](https://flake8.pycqa.org/en/latest/) can be a useful tool
+for this.
 
 ### Isort
 
