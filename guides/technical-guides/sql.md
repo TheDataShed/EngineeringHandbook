@@ -26,7 +26,7 @@ including:
 In SQL, a join is a clause used to combine data from two or more tables. There
 are four main types of joins: inner join, outer join, cross join, and self join.
 
-### Inner join 
+### Inner join
 
 An inner join is the most common type of join. It returns all rows from the
 left table that have matching rows in the right table. The matching rows are
