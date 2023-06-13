@@ -1,6 +1,7 @@
 # Relational SQL
 
-This is a guide to the fundamentals of Relational SQL in all of its varied forms.
+This is a guide to the fundamentals of Relational SQL in all of its varied
+forms.
 
 ## Introduction
 
@@ -9,8 +10,8 @@ managing data in relational database management systems (RDBMS). It's easy to
 use and as the most widely used database language in the world is a key tool in
 the data engineers toolbox.
 
-SQL is a powerful and versatile language that can be used for a variety of tasks,
-including:
+SQL is a powerful and versatile language that can be used for a variety of
+tasks, including:
 
 - Creating and managing databases
 - Inserting, updating, and deleting data from databases
@@ -28,10 +29,10 @@ are four main types of joins: inner join, outer join, cross join, and self join.
 
 ### Inner join
 
-An inner join is the most common type of join. It returns all rows from the
-left table that have matching rows in the right table. The matching rows are
-determined by the join condition, which is an expression that compares values
-in the two tables.
+An inner join is the most common type of join. It returns all rows from the left
+table that have matching rows in the right table. The matching rows are
+determined by the join condition, which is an expression that compares values in
+the two tables.
 
 ```sql
 SELECT *
@@ -41,22 +42,21 @@ ON customers.customer_id = orders.customer_id;
 ```
 
 This query will return all rows from the customers table that have matching rows
-in the orders table. The * in the SELECT clause means to return all columns from
-both tables.
+in the orders table. The \* in the SELECT clause means to return all columns
+from both tables.
 
 ### Outer join
 
-An outer join returns all rows from the a table, including rows that do not
-have matching rows in the second table. Any columns from the second table that
-do not have a matching row will have NULL values for the columns from.
+An outer join returns all rows from the a table, including rows that do not have
+matching rows in the second table. Any columns from the second table that do not
+have a matching row will have NULL values for the columns from.
 
 There are two types of outer joins: left outer join and right outer join. Outer
 joins are almost always left.
 
 Left outer join: Returns all rows from the left table, and the matching rows
-from the right table.
-Right outer join: Returns all rows from the right table, and the matching rows
-from the left table.
+from the right table. Right outer join: Returns all rows from the right table,
+and the matching rows from the left table.
 
 ```sql
 SELECT *
@@ -65,10 +65,10 @@ LEFT OUTER JOIN orders
 ON customers.customer_id = orders.customer_id;
 ```
 
-This query will return all rows from the customers table, including rows that
-do not have matching rows in the orders table. The rows in the customers table
-that do not have matching rows in the orders table will have NULL values for
-the columns from the orders table.
+This query will return all rows from the customers table, including rows that do
+not have matching rows in the orders table. The rows in the customers table that
+do not have matching rows in the orders table will have NULL values for the
+columns from the orders table.
 
 ```sql
 SELECT *
@@ -95,8 +95,8 @@ FROM customers
 CROSS JOIN orders;
 ```
 
-This query will return all possible combinations of rows from the customers table
-and the orders table.
+This query will return all possible combinations of rows from the customers
+table and the orders table.
 
 ### Self join
 
@@ -112,7 +112,8 @@ ON customers.customer_id = c2.customer_id;
 
 This query will return all rows from the customers table, and for each row, it
 will also return all rows from the customers table where the customer ID is
-different. This is useful for finding relationships between rows in the same table.
+different. This is useful for finding relationships between rows in the same
+table.
 
 ## Aggregation
 
@@ -129,8 +130,8 @@ Some common aggregate functions include:
 - MAX: Returns the maximum value in a group.
 
 Aggregate functions can be used in the SELECT clause of a SQL query to return
-aggregated data. For example, the following query returns the number of customers
-in each country:
+aggregated data. For example, the following query returns the number of
+customers in each country:
 
 ```sql
 SELECT country, COUNT(*) AS num_customers
@@ -142,9 +143,9 @@ The `COUNT(*)` aggregate function returns the number of rows in each group, and
 the `GROUP BY` clause groups the rows by the `country` column. This query will
 return a table with two columns: `country` and `num_customers`.
 
-Aggregate functions can also be used with the WHERE clause of a SQL query to filter
-rows before they are aggregated. For example, the following query returns the
-average price of products that have been sold after `2022-01-01`:
+Aggregate functions can also be used with the WHERE clause of a SQL query to
+filter rows before they are aggregated. For example, the following query returns
+the average price of products that have been sold after `2022-01-01`:
 
 ```sql
 SELECT AVG(price) AS avg_price
@@ -156,8 +157,9 @@ The `AVG(price)` aggregate function returns the average price of products that
 have been sold in the period, and the `WHERE` clause filters the rows to only
 include products that have been sold in the last year.
 
-Aggregation is a powerful tool that can be used to summarize data from a database.
-By using aggregate functions, you can quickly and easily get insights into your data.
+Aggregation is a powerful tool that can be used to summarize data from a
+database. By using aggregate functions, you can quickly and easily get insights
+into your data.
 
 ## Security
 
@@ -185,7 +187,7 @@ Each RDMS have their own defined access and roles eg.
 
 - A user with the "read" permission for a table can view the data in the table.
 - A user with the "write" permission for a table can add, update, or delete data
-in the table.
+  in the table.
 - A user with the "delete" permission for a table can delete the table.
 - A user with the "create" permission for a table can create a new table.
 - A user with the "drop" permission for a table can delete a table.
