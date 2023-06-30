@@ -96,3 +96,7 @@ branch[^3].
       commits to retain or alter since the divergence from `main`. _Note_: if
       `main` has changes since the point the branch was created or if there are
       numerous commits, this may not be the ideal solution.
+
+    See also Kubernetes' documentation on how to
+    [squash commits](https://www.kubernetes.dev/docs/guide/github-workflow/#squash-commits)
+    for a useful guide.
