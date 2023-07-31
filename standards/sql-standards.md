@@ -8,38 +8,85 @@ formatting issues and arguments in merge requests. The resulted in a Shed
 specific set of rules that plug and play nicely with the tool
 [SQLFLUFF](https://www.sqlfluff.com/).
 
-Add the configuration file called `sqlfluff.config` to your project directory or
-somewhere referenced/linked to in your code editor of choice. The configuration
-setting:
+Add the configuration file called `.sqlfluff` to your project directory or
+somewhere referenced/linked to in your code editor of choice.
+
+[View the example `.sqlfluff` configuration file.](/examples/SQLFLUFF/.sqlfluff)
+
+Documentation for the [tool](https://docs.sqlfluff.com/en/stable/).
+
+## Supported Dialects
+
+SQLFLUFF supports a range of SQL dialects. You will need to declare a dialect in
+the `[sqlfluff]` section of your `.sqlfluff` configuration file like so:
 
 ```toml
 [sqlfluff]
-verbose = 1
-templater = jinja
-exclude_rules = L003,L036,L039
-output_line_length = 121
-sql_file_exts=.sql
-
-[sqlfluff:rules]
-tab_space_size = 5
-max_line_length = 250
-indent_unit = space
-comma_style = leading
-allow_scalar = True
-single_table_references = consistent
-unquoted_identifiers_policy = aliases
-
-[sqlfluff:rules:L010] # Keywords
-capitalisation_policy = upper
-
-[sqlfluff:rules:L014]
-extended_capitalisation_policy = lower
-
-[sqlfluff:rules:L030] # function names
-capitalisation_policy = lower
-
-[sqlfluff:rules:L052] # final semicolon
-multiline_newline = True
+dialect = tsql
 ```
 
-Documentation for the [tool](https://docs.sqlfluff.com/en/stable/).
+Below is a list of SQL Dialects and the corresponding value required for the
+SQLFLUFF configuration.
+
+| Dialect              | SQLFLUFF value |
+| -------------------- | -------------- |
+| ANSI                 | ansi           |
+| Athena               | athena         |
+| BigQuery             | bigquery       |
+| ClickHouse           | clickhouse     |
+| DataBricks           | databricks     |
+| DB2                  | db2            |
+| DuckDB               | duckdb         |
+| ExaSol               | exasol         |
+| Greenplum            | greenplum      |
+| Hive                 | hive           |
+| Materialize          | materialize    |
+| MySQL                | mysql          |
+| Oracle               | oracle         |
+| PostgreSQL           | postgres       |
+| Redshift             | redshift       |
+| Snowflake            | snowflake      |
+| SOQL                 | soql           |
+| SparkSQL             | sparksql       |
+| SQLite               | sqlite         |
+| Teradata             | teradata       |
+| Transact-SQL (T-SQL) | tsql           |
+
+## Ignoring Files
+
+You can tell SQLFLUFF to ignore certain files if you so wish. This can be done
+by creating a `.sqlfluffignore` in the root of your project and then adding
+values to ignore, just like in a `.gitignore`.
+
+```text
+test_scripts/*
+my_script_to_ignore.sql
+```
+
+## Ignoring Specific Lines
+
+You can use inline comments to ignore rules for specific lines. This can be done
+be specifying the rules you want to ignore like so:
+
+```sql
+-- Ignore all rules
+SELECT foo FROM bar -- noqa: disable=all
+
+-- Ignore a specific rule (allows lowercase keywords)
+select foo from bar -- noqa: disable=L010
+```
+
+## Use with pre-commit
+
+We can use SQLFLUFF with pre-commit. At the time of writing, the latest version
+is 2.1.4 however you should
+[check the latest version](https://github.com/sqlfluff/sqlfluff/releases/tag/2.1.4)
+when setting up your project.
+
+```yaml
+- repo: https://github.com/sqlfluff/sqlfluff
+    rev: 2.1.4
+    hooks:
+      - id: sqlfluff-lint
+      - id: sqlfluff-fix
+```
